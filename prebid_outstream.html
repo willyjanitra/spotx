@@ -1,0 +1,124 @@
+<html>
+
+    <head>
+        <link rel="icon" type="image/png" href="/favicon.png">
+        <script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+         <script async src="//cdns.klimg.com/d.kapanlaginetwork.com/banner/asset/prebid/loader.js"></script>
+
+
+        <script>
+            var sizes = [
+                [300, 250]
+            ];
+            var PREBID_TIMEOUT = 1000;
+            var FAILSAFE_TIMEOUT = 3000;
+
+            var adUnits = [{
+                code: '/137679306/willy_outstream_test',
+                mediaTypes: {
+			        video: {
+			            context: 'outstream',
+			            playerSize: [640, 480]
+			        }
+			    },
+			    bids: [{
+			        bidder: 'spotx',
+			        params: {
+			            channel_id: 79391,
+			            ad_unit: 'outstream',
+            			outstream_function: myOutstreamFunction
+			        }
+			    }]
+            }];
+
+            function myOutstreamFunction(bid) {
+			    const videoDiv = 'video1';
+			    const playerWidth = 640;
+			    const playerHeight = 480;
+
+			    window.console.log('[SPOTX][renderer] Handle SpotX custom outstream renderer');
+			    let script = window.document.createElement('script');
+			    script.type = 'text/javascript';
+			    script.src = '//js.spotx.tv/easi/v1/' + bid.channel_id + '.js';
+			    script.setAttribute('data-spotx_channel_id', '' + bid.channel_id);
+			    script.setAttribute('data-spotx_vast_url', '' + bid.vastUrl);
+			    script.setAttribute('data-spotx_content_width', playerWidth);
+			    script.setAttribute('data-spotx_content_height', playerHeight);
+			    script.setAttribute('data-spotx_content_page_url', bid.renderer.config.content_page_url);
+			    if (bid.renderer.config.ad_mute) {
+			        script.setAttribute('data-spotx_ad_mute', '1');
+			    }
+			    script.setAttribute('data-spotx_ad_unit', 'incontent');
+			    script.setAttribute('data-spotx_collapse', '0');
+			    script.setAttribute('data-spotx_hide_fullscreen', '1');
+			    script.setAttribute('data-spotx_autoplay', '1');
+			    script.setAttribute('data-spotx_blocked_autoplay_override_mode', '1');
+			    script.setAttribute('data-spotx_video_slot_can_autoplay', '1');
+			    script.setAttribute('data-spotx_unmute_on_mouse', '1');
+			    script.setAttribute('data-spotx_click_to_replay', '1');
+			    script.setAttribute('data-spotx_continue_out_of_view', '1');
+			    script.setAttribute('data-spotx_ad_volume', '1');
+			    
+			    window.document.getElementById(videoDiv).appendChild(script);
+			    
+			}
+
+
+            // ======== DO NOT EDIT BELOW THIS LINE =========== //
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                googletag.pubads().disableInitialLoad();
+            });
+
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+
+            pbjs.que.push(function() {
+                pbjs.addAdUnits(adUnits);
+                pbjs.requestBids({
+                    bidsBackHandler: initAdserver,
+                    timeout: PREBID_TIMEOUT
+                });
+            });
+
+            function initAdserver() {
+                if (pbjs.initAdserverSet) return;
+                pbjs.initAdserverSet = true;
+                googletag.cmd.push(function() {
+                    pbjs.setTargetingForGPTAsync && pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+                });
+            }
+            
+            // in case PBJS doesn't load
+            setTimeout(function() {
+                initAdserver();
+            }, FAILSAFE_TIMEOUT);
+
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/137679306/willy_outstream_test', [[300,250],[1,1]], 'div-1')
+                	.addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+
+        </script>
+
+    </head>
+
+    <body>
+        <h2>Basic Prebid.js Example</h2>
+        <h5>Div-1</h5>
+        <div id='div-1'>
+            <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                    googletag.display('div-1');
+                });
+
+            </script>
+        </div>
+        <div id="video1"></div>
+    </body>
+
+</html>
