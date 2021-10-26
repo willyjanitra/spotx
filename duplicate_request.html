@@ -1,0 +1,113 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div {
+            padding-bottom: 10px;
+        }
+
+
+    </style>
+</head>
+<body>
+How many times should we repeat?
+<select id='numberofreq'>
+    <option value="10">10</option>
+    <option value="50">50</option>
+    <option value="100">100</option>
+    <option value="200">200</option>
+    <option value="500">500</option>
+    <option value="1000">1000</option>
+    <option value="5000">5000</option>
+</select>
+<br />
+<br />
+Use this request:
+<input type="text" id="request" value="http://search.spotxchange.com/vast/2.00/79391?VPI=MP4&content_page_url=www.impressiontesting555.com" style="width:500px"/>
+<br />
+<br />
+What impression should we fire?
+<select id='impbeacon'>
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    <option value="15">15</option>
+    <option value="16">16</option>
+    <option value="17">17</option>
+    <option value="18">18</option>
+    <option value="19">19</option>
+    <option value="20">20</option>
+</select>
+<br />
+<br />
+<input type="submit" onclick="start()" value="START" />
+
+<hr style="border-top: 2px solid black"  />
+
+<div id="impressions"></div>
+
+<script>
+
+    function start(){
+        var m = document.getElementById('numberofreq').value;
+        var request = document.getElementById('request').value;
+        var impbeacon = document.getElementById('impbeacon').value;
+
+        //for Timestamp or cachebuster
+        var rand = Math.floor(Math.random() * 10000000);
+
+        for (i = 0; i < m; i++) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200 && this.responseText.length > 100) {
+                    myFunction(this);
+                }
+                else if (this.readyState == 4 && this.status == 200 && this.responseText.length < 100){
+                    var div = document.createElement("div");
+                    div.innerText = "No Response";
+                    document.getElementById("impressions").appendChild(div);
+
+                }
+            };
+            xhttp.open("GET", request + rand, true);
+
+            console.log(request+rand);
+            xhttp.send();
+
+            function myFunction(xml) {
+                var xmlDoc = xml.responseXML;
+                var x = xmlDoc.getElementsByTagName('Impression')[impbeacon];
+                var y = x.childNodes[0];
+                var imp =  y.nodeValue;
+
+
+                var getImp = new XMLHttpRequest();
+                getImp.open("GET", imp, true);
+                getImp.send(null);
+
+                var div = document.createElement("div");
+                div.innerHTML = imp;
+                document.getElementById("impressions").appendChild(div);
+
+            }
+        }
+    }
+</script>
+
+
+</body>
+</html>
