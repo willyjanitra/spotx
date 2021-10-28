@@ -1,0 +1,62 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>SpotX</AdSystem>
+			<AdTitle>Vast 3.0 Test</AdTitle>
+			<Description>Skipable Test</Description>
+			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:18</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]></Tracking>
+							<Tracking event="complete"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]></Tracking>
+							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[ https://www.spotx.tv/ ]]></ClickThrough>
+							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://f002.backblazeb2.com/file/wjanitra01/file/DYS_P212254_J0041_T01_VX-73761_16x9_YT_ID_BI_1_HD1080_25p_PP003.mp4 ]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+				<Creative sequence="1">
+					<CompanionAds>
+						<Companion height="250" width="300">
+							<StaticResource creativeType="image/jpeg"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/media/2013_q3/Cattitude_Companion_1.jpg ]]></StaticResource>
+							<CompanionClickThrough><![CDATA[ https://www.purina.com/ ]]></CompanionClickThrough>
+							<CompanionClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_CompanionClickTrackingStatic ]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_staticCompanionView ]]></Tracking>
+							</TrackingEvents>
+							<AltText>More Information</AltText>
+						</Companion>
+						<Companion height="250" width="300">
+							<IFrameResource><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/media/2013_q3/cattitude_iframe_companion_3.html ]]></IFrameResource>
+							<CompanionClickThrough><![CDATA[ https://www.purina.com/ ]]></CompanionClickThrough>
+							<CompanionClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_CompanionClickTrackingIframe ]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_iframeCompanionView ]]></Tracking>
+							</TrackingEvents>
+						</Companion>
+						<Companion height="250" width="300">
+							<HTMLResource><![CDATA[ <a href='https://www.spotx.tv/' target='_blank' style='display:inline-block' ><img src='https://cdn.spotxcdn.com/website/integration_test/media/2013_q3/Cattitude_Companion_1.jpg' border='0' /></a>]]></HTMLResource>
+							<CompanionClickThrough><![CDATA[ https://www.spotx.tv/ ]]></CompanionClickThrough>
+							<CompanionClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_CompanionClickTrackingHtml ]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_htmlCompanionView ]]></Tracking>
+							</TrackingEvents>
+						</Companion>
+					</CompanionAds>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
