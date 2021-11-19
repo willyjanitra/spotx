@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+	<Ad id="617042">
+		<InLine>
+			<AdSystem><![CDATA[Wootag Ads]]></AdSystem>
+			<AdTitle><![CDATA[Xmen ver 3 SCRATCH sport.mp4]]></AdTitle>
+			<Description/>
+			<Impression><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/imp?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Impression>
+			<Impression><![CDATA[https://unified.adsafeprotected.com/pixel.png?eyJ0eXBlIjoiU0VDT05EQVJZX0lNUFJFU1NJT04iLCJwdWJsaXNoZXJVdWlkIjoiYTVkYjAyYjAtMmI3OC00OWEzLTg0ZmYtMDA1NTlkNjk3Y2I5Iiwic2l0ZVV1aWQiOiJhZmRkZWY1ZC1jMjA0LTQwYTktYjRmYi05NjVhMTQ1ZDA2OTYiLCJjdXN0b20iOnsiY3VzdG9tMSI6IiIsImN1c3RvbTIiOiIyLjAiLCJjdXN0b20zIjoiMi4wIiwiY3VzdG9tNyI6Ijg3Mzc3NSIsImN1c3RvbTgiOiI1ODUyNDAyMCIsInhzaWQiOiJjNjAxYTg4Zi01NDI0LTRjOTktYTUyYi00YWU3NDc3OGI3YzIifSwiaGVhZGVycyI6eyJoZWFkZXIxMSI6Ildvb3RhZyBBZHMiLCJoZWFkZXIxMiI6Ind3dy53b290YWcuY29tIiwiaGVhZGVyMyI6IltPTUlEUEFSVE5FUl0iLCJoZWFkZXI0IjoiW0FQSUZSQU1FV09SS1NdIiwiaGVhZGVyNSI6IltCVU5ETEVJRF0iLCJoZWFkZXI4IjoiaWFzbyIsImhlYWRlcjkiOiIifSwiY2IiOiIxNjM3Mjk1MTQzMzA3NzY3ODc1IiwiaWFzU2luZ2xldGFnIjp0cnVlLCJpYXNTaW5nbGV0YWdPdXRjb21lIjoiT1VUQ09NRV9BIn0=&key1=ROKU_ADS_APP_ID&key2=$APP_STOREURL]]></Impression>
+			<Impression><![CDATA[https://pixel.adsafeprotected.com/rfw/st/873775/58524020/skeleton.gif?xmtp=v&xmapp=0&xsId=c601a88f-5424-4c99-a52b-4ae74778b7c2&ias_xappb=[ctv_appid]]]></Impression>
+			<Creatives>
+				<Creative id="A48306-8DBC-13B5" sequence="1">
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/str?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/frq?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/mid?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/thq?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/com?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/pau?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/res?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/rew?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/fsc?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+							<Tracking event="close"><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/clo?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></Tracking>
+						</TrackingEvents>
+						<AdParameters><![CDATA[{"mediaFiles":[{"delivery":"progressive","type":"video/mp4","bitrate":256,"width":640,"height":360,"uri":"https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/360.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":256,"width":427,"height":240,"uri":"https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/240.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":256,"width":853,"height":480,"uri":"https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/480.mp4"},{"delivery":"progressive","type":"video/mp4","bitrate":256,"width":1280,"height":720,"uri":"https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/720.mp4"}],"clickThroughUrl":"https://c.lazada.vn/t/c.0aprwv?intent=false&fallback=true&url=https%3A%2F%2Fwww.lazada.vn%2Fshop%2Fxmen-official-store","duration":30,"adParameters":"{"use_custom_events":"0"}","wrapperId":"zvkvfy2j","customDimensions":{"190":"FW","197":"873775","198":"58524020","182":"%2Fias%2Fv1%2Fvpaid.2021.11.11-14.20-5cc9b2d.js","188":"lon1","189":"droplet"},"trackingHost":"unified.adsafeprotected.com","plugins":[{"id":"ias","config":{"apiframeworks":"[APIFRAMEWORKS]","bundleId":"[BUNDLEID]","ias_xappb":"[ctv_appid]","isMonitoring":"true","partner":"iaso","xmapp":0,"xmtp":"v","xsId":"c601a88f-5424-4c99-a52b-4ae74778b7c2"}},{"id":"ias.fw","config":{"advEntityId":"873775","pubEntityId":"58524020"}},{"id":"play","config":{"acceptMedia":"^video/"}},{"id":"skip","config":{"acceptMedia":"^video/"}}],"blockedAdTracking":"","ias_singletag":true,"ias_singletag_outcome":1}]]></AdParameters>
+						<VideoClicks>
+							<ClickThrough><![CDATA[https://c.lazada.vn/t/c.0aprwv?intent=false&fallback=true&url=https%3A%2F%2Fwww.lazada.vn%2Fshop%2Fxmen-official-store]]></ClickThrough>
+							<ClickTracking><![CDATA[https://www.wootag.com/api/v1/data/track/event/617042/clt?network=DoubleClick&network_id=4&tid=5766&bid=601505&ctype=js&adformat=VAST]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile apiFramework="VPAID" delivery="progressive" height="720" type="application/javascript" width="1280"><![CDATA[https://static.adsafeprotected.com/ias/v1/vpaid.2021.11.11-14.20-5cc9b2d.js]]></MediaFile>
+							<MediaFile bitrate="256" delivery="progressive" height="360" type="video/mp4" width="640"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/360.mp4]]></MediaFile>
+							<MediaFile bitrate="256" delivery="progressive" height="240" type="video/mp4" width="427"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/240.mp4]]></MediaFile>
+							<MediaFile bitrate="256" delivery="progressive" height="480" type="video/mp4" width="853"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/480.mp4]]></MediaFile>
+							<MediaFile bitrate="256" delivery="progressive" height="720" type="video/mp4" width="1280"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A48306-8DBC-13B5/720.mp4]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="AdVerifications">
+					<AdVerifications>
+						<Verification vendor="IAS">
+							<JavaScriptResource apiFramework="omid" browserOptional="true"><![CDATA[https://fw.adsafeprotected.com/rjss/st/873775/58524020/skeleton.js?ias_xpc=iaso&xsId=c601a88f-5424-4c99-a52b-4ae74778b7c2&xmtp=v&omidPartner=[OMIDPARTNER]&apiframeworks=[APIFRAMEWORKS]&ias_bundleId=[BUNDLEID]&ias_xappb=[ctv_appid]]]></JavaScriptResource>
+						</Verification>
+					</AdVerifications>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
