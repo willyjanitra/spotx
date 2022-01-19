@@ -20,7 +20,7 @@ function mobileAndTabletcheck() {
     w = w.top.document ? w.top : w;
   } catch (e) {}
 
-
+var s_passback_tag = script.getAttribute("data-passback_tag");
   var nm = "'gpt-passback'";
   var ad_slot = "'"+s_passback_tag+"', [320, 100], "+nm+"";
   var key = "'willy_pub', ['display']";
