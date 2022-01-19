@@ -56,11 +56,7 @@ function mobileAndTabletcheck() {
     var s_channel_id = script.getAttribute("data-mobile-channel_id");
     var s_width = script.getAttribute("data-mobile-width");
     var s_height = script.getAttribute("data-mobile-height");
-  } else {
-    var s_channel_id = script.getAttribute("data-desktop-channel_id");
-    var s_width = script.getAttribute("data-desktop-width");
-    var s_height = script.getAttribute("data-desktop-height");
-  }
+  } 
   var s_delay = script.getAttribute("data-close-delay");
   var s_offset_y = script.getAttribute("data-spotx_sticky_y_offset");
   var s_schain = script.getAttribute("data-spotx_schain");
