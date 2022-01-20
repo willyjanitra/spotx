@@ -28,7 +28,6 @@ function mobileAndTabletcheck() {
 
   var nm = "'gpt-passback'";
   var ad_slot = "'"+s_passback_tag+"', "+s_passback_size+", "+nm+"";
-  var key = "'willy_pub', ['display']";
 
   var script_func = window.top.document.createElement("script");
   script_func.text =
@@ -46,7 +45,7 @@ function mobileAndTabletcheck() {
         'sc.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";'+
         'sc.setAttribute("async","");'+
         'var sc2 = document.createElement("script");'+
-        'sc2.innerHTML="window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {var slot = googletag.defineSlot('+ad_slot+').addService(googletag.pubads()).setTargeting('+key+');googletag.enableServices();googletag.display('+nm+');googletag.pubads().refresh([slot])});";'+
+        'sc2.innerHTML="window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {var slot = googletag.defineSlot('+ad_slot+').addService(googletag.pubads());googletag.enableServices();googletag.display('+nm+');});";'+
         'var dv = document.createElement("div");'+
         'dv.id='+nm+';'+
         'dv.style="text-align:center";'+
