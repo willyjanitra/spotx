@@ -20,9 +20,14 @@ function mobileAndTabletcheck() {
     w = w.top.document ? w.top : w;
   } catch (e) {}
 
-var s_passback_tag = script.getAttribute("data-passback_tag");
+  var script = document.querySelector("script[src*=test_sticky_passback]");
+
+  var s_passback_tag = script.getAttribute("data-passback_tag");
+  var s_passback_size = script.getAttribute("data-passback_size");
+
+
   var nm = "'gpt-passback'";
-  var ad_slot = "'"+s_passback_tag+"', [320, 100], "+nm+"";
+  var ad_slot = "'"+s_passback_tag+"', "+s_passback_size+", "+nm+"";
   var key = "'willy_pub', ['display']";
 
   var script_func = window.top.document.createElement("script");
@@ -33,8 +38,10 @@ var s_passback_tag = script.getAttribute("data-passback_tag");
     "var spotx_container = window.top.document.querySelector('#s_vid_contain');" +
     'spotx_container.style.display = "none";' +
     "            } else {" +
+    "var spotx_container = window.top.document.querySelector('#s_vid_contain');" +
+    'spotx_container.style.display = "none";' +
     '               console.log("SpotX Passback");' +
-        'var spt = document.getElementById("s_vid_contain");' +
+        'var spt = document.getElementById("dv-identifier");' +
         'var sc = document.createElement("script");' +
         'sc.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";'+
         'sc.setAttribute("async","");'+
@@ -44,19 +51,29 @@ var s_passback_tag = script.getAttribute("data-passback_tag");
         'dv.id='+nm+';'+
         'dv.style="text-align:center";'+
         'dv.appendChild(sc2);'+
-        'spt.appendChild(sc); spt.appendChild(dv)'+
+        'spt.after(sc); spt.after(dv)'+
     "            }" +
     "          }";
 
 
-  frameElement.parentNode.parentNode.style.cssText = "height:0px !important";
+
+
+
+  var parCont = frameElement.parentNode.parentNode;
+  parCont.style.cssText="height:0px !important";
+
+  var dvPassback = document.createElement("div");
+  dvPassback.id="dv-identifier";
+  dvPassback.style.cssText="display: none";
+
+  parCont.after(dvPassback);
+
   var bMobile = mobileAndTabletcheck();
-  var script = document.querySelector("script[src*=spotx_dfp_full_sticky]");
-  if (bMobile) {
+
     var s_channel_id = script.getAttribute("data-mobile-channel_id");
     var s_width = script.getAttribute("data-mobile-width");
     var s_height = script.getAttribute("data-mobile-height");
-  } 
+  
   var s_delay = script.getAttribute("data-close-delay");
   var s_offset_y = script.getAttribute("data-spotx_sticky_y_offset");
   var s_schain = script.getAttribute("data-spotx_schain");
