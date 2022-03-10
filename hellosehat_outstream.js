@@ -23,7 +23,7 @@
   var bMobile = mobileAndTabletcheck();
 
   var d = window.top.document;
-  var script = document.querySelector("script[src*=spotx_classic_dfp");
+  var script = document.querySelector("script[src*=hellosehat_outstream");
 
   if (bMobile) {
     var s_channel_id = script.getAttribute("data-mobile-channel_id");
