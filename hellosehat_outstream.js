@@ -49,7 +49,7 @@
   s.src = "//js.spotx.tv/easi/v1/" + s_channel_id + ".js";
   s.type = "text/javascript";
   s.setAttribute("data-spotx_channel_id", s_channel_id);
-  s.setAttribute("data-spotx_content_width", 300);
+  s.setAttribute("data-spotx_content_width", s_width);
   s.setAttribute("data-spotx_content_height", s_height);
   s.setAttribute("data-spotx_ad_unit", "incontent");
   s.setAttribute("data-spotx_autoplay", "1");
