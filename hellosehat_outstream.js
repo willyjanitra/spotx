@@ -36,7 +36,7 @@
   }
   var s_schain = script.getAttribute("data-spotx_schain");
 
-  var spotx_slot = frameElement.parentNode.parentNode;
+  var spotx_slot = frameElement.parentNode;
   spotx_slot.style.cssText = "height:0px !important";
   var s_div = document.createElement("div");
   var s_style =
@@ -44,7 +44,7 @@
     s_width +
     "px; !important; height:" +
     s_height +
-    "px; !important;position: relative !important";
+    "px; !important;";
   s_div.style.cssText = s_style;
   s.src = "//js.spotx.tv/easi/v1/" + s_channel_id + ".js";
   s.type = "text/javascript";
