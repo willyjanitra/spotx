@@ -36,10 +36,17 @@
   }
   var s_schain = script.getAttribute("data-spotx_schain");
 
-  var spotx_slot = frameElement.parentNode;
+  var spotx_slot = frameElement.parentNode.parentNode;
   spotx_slot.style.cssText = "height:0px !important";
   var s_div = document.createElement("div");
-  s.src = "//cdn.spotxcdn.com/website/integration_test/media/asia/EASI.js";
+  var s_style =
+    "width:" +
+    s_width +
+    "px; !important; height:" +
+    s_height +
+    "px; !important;position: relative !important";
+  s_div.style.cssText = s_style;
+  s.src = "//js.spotx.tv/easi/v1/" + s_channel_id + ".js";
   s.type = "text/javascript";
   s.setAttribute("data-spotx_channel_id", s_channel_id);
   s.setAttribute("data-spotx_content_width", s_width);
@@ -47,6 +54,6 @@
   s.setAttribute("data-spotx_ad_unit", "incontent");
   s.setAttribute("data-spotx_autoplay", "1");
   if (s_schain) s.setAttribute("data-spotx_schain", s_schain);
-  spotx_slot.before(s);
-  //s_div.appendChild(s);
+  spotx_slot.before(s_div);
+  s_div.appendChild(s);
 })(window, document, document.createElement("script"));
