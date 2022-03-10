@@ -39,7 +39,7 @@
   var spotx_slot = frameElement.parentNode;
   spotx_slot.style.cssText = "height:0px !important";
   var s_div = document.createElement("div");
-  s.src = "//js.spotx.tv/easi/v1/" + s_channel_id + ".js";
+  s.src = "//cdn.spotxcdn.com/website/integration_test/media/asia/EASI.js";
   s.type = "text/javascript";
   s.setAttribute("data-spotx_channel_id", s_channel_id);
   s.setAttribute("data-spotx_content_width", s_width);
