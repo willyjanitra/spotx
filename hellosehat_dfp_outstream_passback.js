@@ -23,7 +23,7 @@
   var bMobile = mobileAndTabletcheck();
 
   var d = window.top.document;
-  var script = document.querySelector("script[src*=hellosehat_outstream");
+  var script = document.querySelector("script[src*=hellosehat_dfp_outstream_passback");
 
   var s_passback_tag = script.getAttribute("data-passback_tag");
   var s_passback_size = script.getAttribute("data-passback_size");
