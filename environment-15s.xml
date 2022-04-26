@@ -1,0 +1,34 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>SpotX</AdSystem>
+			<AdTitle>15s Environment</AdTitle>
+			<Description>Skipable Test</Description>
+			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]></Tracking>
+							<Tracking event="complete"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]></Tracking>
+							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[ https://www.michelin.vn/michelin-brand-campaign?utm_source=Spotx&utm_medium=video&utm_campaign=MICHELIN%2FGlobal%2FBrand%2FMotionForLife%2FGeneric%7C102600602%2FMichelin-Global-Brand-MotionForLife-Generic_2022-04-22_2022-05-12_VID_AWR_LOC_VNM&utm_content=2022-04_DCEM_GLOBAL_GLOBAL_NA_Gen_ATTR_NA_WinterRange_Digital_Video_NA_16x9_BRD_1_vie_NA&utm_term=Direct_AUC_Spotx_OTT_Not%20Applied_SPC_TrueView_30SEC_CPCV-oCPCV_CCD_AWR_NRT_4SD-GEO-BHV-NOCTX-NOPD_VNM_DVFM&dclid=CNHD5LH4rvcCFf6RAAAde1YBlg#buynow ]]></ClickThrough>
+							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://f002.backblazeb2.com/file/wjanitra01/file/ENVIROMENT-2015S_16-9.mp4 ]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+				
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
