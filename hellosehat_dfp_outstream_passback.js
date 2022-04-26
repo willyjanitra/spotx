@@ -34,25 +34,26 @@
 
   var spotx_slot = frameElement.parentNode;
   
-  function spotxAdDoneFunc(spotx_ad_found) {
-    if (spotx_ad_found) {
-        console.log("SpotX Ad Done");
-    } 
-    else {
-        console.log("SpotX Passback");
-        var sc = document.createElement("script");
-        sc.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";
-        sc.setAttribute("async","");
-        var sc2 = document.createElement("script");
-        sc2.innerHTML="window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {var slot = googletag.defineSlot('+ad_slot+').addService(googletag.pubads());googletag.enableServices();googletag.display('+nm+');});";
-        var dv = document.createElement("div");
-        dv.id='+nm+';
-        dv.style="text-align:center";
-        dv.appendChild(sc2);
-        spotx_slot.after(sc); 
-        spotx_slot.after(dv)
-    }
-  }
+  var script_func = window.top.document.createElement("script");
+  script_func.text =
+    "function spotxAdDoneFunc(spotx_ad_found) {" +
+    "            if (spotx_ad_found) {" +
+    '              console.log("SpotX Ad Done");' +
+    "            } else {" +
+    '               console.log("SpotX Passback");' +
+        'var spt = document.getElementById("spotx_div");' +
+        'var sc = document.createElement("script");' +
+        'sc.src="https://securepubads.g.doubleclick.net/tag/js/gpt.js";'+
+        'sc.setAttribute("async","");'+
+        'var sc2 = document.createElement("script");'+
+        'sc2.innerHTML="window.googletag = window.googletag || {cmd: []};googletag.cmd.push(function() {var slot = googletag.defineSlot('+ad_slot+').addService(googletag.pubads());googletag.enableServices();googletag.display('+nm+');});";'+
+        'var dv = document.createElement("div");'+
+        'dv.id='+nm+';'+
+        'dv.style="text-align:center";'+
+        'dv.appendChild(sc2);'+
+        'spt.after(sc); spt.after(dv)'+
+    "            }" +
+    "          }";
   
   if (bMobile) {
     var s_channel_id = script.getAttribute("data-mobile-channel_id");
@@ -68,12 +69,13 @@
   
   spotx_slot.style.cssText = "height:0px !important";
   var s_div = document.createElement("div");
+  s_div.setAttribute("id", "spotx_div");
   var s_style =
     "width:" +
     s_width +
     "px; !important; height:" +
     s_height +
-    "px; !important;";
+    "px; !important; margin: 0 auto;";
   s_div.style.cssText = s_style;
   s.src = "//js.spotx.tv/easi/v1/" + s_channel_id + ".js";
   s.type = "text/javascript";
@@ -85,5 +87,6 @@
   s.setAttribute("data-spotx_ad_done_function", "spotxAdDoneFunc");
   if (s_schain) s.setAttribute("data-spotx_schain", s_schain);
   spotx_slot.before(s_div);
+  s_div.appendChild(script_func);
   s_div.appendChild(s);
 })(window, document, document.createElement("script"));
