@@ -18,7 +18,7 @@
 							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
 						</TrackingEvents>
 						<VideoClicks>
-							<ClickThrough><![CDATA[ https://www.michelin.vn/michelin-brand-campaign?utm_source=Spotx&utm_medium=video&utm_campaign=MICHELIN%2FGlobal%2FBrand%2FMotionForLife%2FGeneric%7C102600602%2FMichelin-Global-Brand-MotionForLife-Generic_2022-04-22_2022-05-12_VID_AWR_LOC_VNM&utm_content=2022-04_DCEM_GLOBAL_GLOBAL_NA_Gen_ATTR_NA_WinterRange_Digital_Video_NA_16x9_BRD_1_vie_NA&utm_term=Direct_AUC_Spotx_OTT_Not%20Applied_SPC_TrueView_30SEC_CPCV-oCPCV_CCD_AWR_NRT_4SD-GEO-BHV-NOCTX-NOPD_VNM_DVFM&dclid=CNHD5LH4rvcCFf6RAAAde1YBlg#buynow ]]></ClickThrough>
+							<ClickThrough><![CDATA[ https://www.michelin.vn/michelin-brand-campaign/formula-e ]]></ClickThrough>
 							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
