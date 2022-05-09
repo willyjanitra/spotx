@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<script type="text/javascript">
+		function call_api()
+		{
+			var xmlHttp = new XMLHttpRequest();
+			var token = "spotx_test_2-cHVibGlzaGVyLzc4ODg2"
+			var url = "https://auth.spotx.tv/oauth2/auth?client_id="+token+"&response_type=token&state=indonesia";
+		    xmlHttp.open("GET", url); // false for synchronous request
+		    xmlHttp.send();
+		    xmlHttp.onreadystatechange=(e)=>{
+		    	console.log(xmlHttp.responseText);
+		    }
+		    
+		}
+
+		// function httpGetAsync(theUrl, callback)
+		// {
+		//     var xmlHttp = new XMLHttpRequest();
+		//     xmlHttp.onreadystatechange = function() { 
+		//         if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+		//             callback(xmlHttp.responseText);
+		//     }
+		//     xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+		//     xmlHttp.send(null);
+		// }
+	</script>
+</head>
+<body>
+test
+<br/>
+<a href="#" onclick="call_api()">CALL</a>
+
+</body>
+</html>
