@@ -56,6 +56,9 @@ if ( fv_getcookie( 'anchor_preview' ) == 1 )
 }
 */
 
+
+
+
 function straitsTimesOutstreamNotifcation(type, name, id) {
 
 			
@@ -904,32 +907,6 @@ if (typeof loaded_dfp_tags !== 'undefined')
 
 
 
-					// SPHL midarticlespecial only for PlaygroundXYZ Display
-					if( is_sphm_site!=1 && key1=="midarticlespecial" && article_page_is==1)
-					{
-							var temp_adunits = {
-								code: dfpadunits[key1]['slotname'],
-								mediaTypes:
-								{
-									banner:
-									{
-										sizes: [300, 250]
-									}
-								},
-								bids: [
-								{
-									bidder: "pxyz",
-									labelAny: ["phone"],
-									params:
-									{
-										placementId: pxyz_placementid,
-									}
-								}
-								]
-							};
-
-								adUnits.push(temp_adunits);
-					}
 
 					
 					if(screen.width >= 640)
@@ -942,183 +919,7 @@ if (typeof loaded_dfp_tags !== 'undefined')
 					var temp_adsize = converysizearray(dfpadunits[key1]['size']);
 
 
-			//For SPHL+SPHM Unruly only midarticlespecial
-
-			if( key1=="midarticlespecial" && article_page_is==1)
-					{
-
-
-							var temp_adunits = {
-						   code: dfpadunits[key1]['slotname'],
-							mediaTypes: {
-								video:
-										{
-											context: 'outstream',
-											playerSize: [640, 480]
-										}
-							},
-								renderer: {		
-								options: {cbNotification: straitsTimesOutstreamNotifcation},
-								url: 'https://acdn.adnxs.com/video/outstream/ANOutstreamVideo.js',
-								backupOnly: true, // prefer demand renderer
-								render: function (bid) {
-									adResponse = {
-										ad: {
-											video: {
-												content: bid.vastXml,
-												player_height: bid.playerHeight,
-												player_width: bid.playerWidth
-											}
-										}
-									}
-									// push to render queue because ANOutstreamVideo may not be loaded yet.
-									bid.renderer.push(() => {
-										ANOutstreamVideo.renderAd({
-											targetId: bid.adUnitCode, // target div id to render video.
-											adResponse: adResponse
-										});
-									});
-								}
-							},
-						   bids: [
-							   {  
-										   bidder: 'unruly',
-											   labelAny: ["desktop", "tablet", "phone"],
-										   params: {
-											   targetingUUID: unruly_uuid,
-											   siteId: unruly_siteid,
-												video:
-												{
-													skippable: true,
-													playback_method: ['auto_play_sound_off']
-												}
-										   }
-									}
-						   ]
-					   };
-						   adUnits.push(temp_adunits);
-
-
-					}
-
-
-
-			//For SPHL+SPHM Appnexus only midarticlespecial and midarticlespecial2
-					var temp_adunits = {
-               code: dfpadunits[key1]['slotname'],
-                mediaTypes: {
-                    video:
-							{
-								context: 'outstream',
-								playerSize: [640, 480]
-							}
-                },
-					renderer: {		
-					options: {cbNotification: straitsTimesOutstreamNotifcation},
-					url: 'https://acdn.adnxs.com/video/outstream/ANOutstreamVideo.js',
-					backupOnly: true, // prefer demand renderer
-					render: function (bid) {
-						adResponse = {
-							ad: {
-								video: {
-									content: bid.vastXml,
-									player_height: bid.playerHeight,
-									player_width: bid.playerWidth
-								}
-							}
-						}
-						// push to render queue because ANOutstreamVideo may not be loaded yet.
-						bid.renderer.push(() => {
-							ANOutstreamVideo.renderAd({
-								targetId: bid.adUnitCode, // target div id to render video.
-								adResponse: adResponse
-							});
-						});
-					}
-				},
-               bids: [
-                   {
-							bidder: 'appnexus',
-								labelAny: ["desktop", "tablet", "phone"],
-							params:
-							{
-								member:'9261',
-								invCode: appnexusid,
-								video:
-								{
-									skippable: true,
-									playback_method: ['auto_play_sound_off']
-								}
-							}
-						}
-               ]
-           };
-			   adUnits.push(temp_adunits);
-
-
-
-
-
-			//For SPHL+SPHM Appnexus ScrollX only midarticlespecial
-
-			if( key1=="midarticlespecial" && article_page_is==1)
-					{
-					   var temp_adunits = {
-										code: dfpadunits[key1]['slotname'],
-										mediaTypes:
-										{
-											banner:
-											{
-												sizes: [1, 1]
-											}
-										},
-										bids: [
-										{
-											bidder: "appnexus",
-											labelAny: ["phone"],
-											params:
-											{
-												member:'9261',
-												invCode: appnexusid
-											}
-										}	
-										]
-									};
-
-									adUnits.push(temp_adunits);
-					}
-
-
-
-			   //For SPHL+SPHM Teads only midarticlespecial and midarticlespecial2
-			   
-			  var temp_adunits = {
-						code: dfpadunits[key1]['slotname'],
-						//sizes: outstreamsize,
-						mediaTypes:
-						{
-							banner: 
-							{
-								sizes: [1, 1]
-							}
-						},						
-						bids: [						
-						{
-							   bidder: 'teads',
-								labelAny: ["desktop", "tablet", "phone"],
-							   params: {
-								   placementId: teads_placementid,
-								   pageId: teads_pageid,
-									video:
-									{
-										skippable: true,
-										playback_method: ['auto_play_sound_off']
-									}
-							   }
-						}]
-					};
-
-						adUnits.push(temp_adunits);
+		
 
 				// SPHL+SPHM SpotX Midarticlespecial and midarticlespecial2
 
@@ -1147,70 +948,8 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											 params: {
 											   channel_id: spotx_sph_id,
 											   ad_unit: "outstream",
-											   max_duration:240,
-											   outstream_function: function spotxOutstreamFunc(bid) {
-												  let screenWidth = screen.width;
-												  if (screenWidth<=576) {
-													var playerWidth = 300;
-													var playerHeight = 169;
-												  } else {
-													var playerWidth = 640;
-													var playerHeight = 360;
-												  }
-												 
-												 const videoDiv = bid.adUnitCode;
-												  var vid_contain = window.document.getElementById(videoDiv);
-
-											//additional
-											var dvSpotx = document.createElement("div");
-											dvSpotx.id= videoDiv + "-dv-spotx";
-											document.getElementById(videoDiv).getElementsByTagName("div")[0].style.display="none";
-											document.getElementById(videoDiv).appendChild(dvSpotx);
-
-											var dvIdt = document.createElement("div");
-											dvIdt.id = "dv-spotx-identifier";
-											dvIdt.style="display:none";
-											document.getElementById(videoDiv).appendChild(dvIdt);
-
-
-												 window.console.log(
-												   "[SPOTX][renderer] Handle SpotX custom outstream renderer"
-												 );
-												 let script = window.document.createElement("script");
-												 script.type = "text/javascript";
-												 script.src = '//js.spotx.tv/easi/v1/' + bid.channel_id + '.js';
-												 script.setAttribute(
-												   "data-spotx_channel_id",
-												   "" + bid.channel_id
-												 );
-												 script.setAttribute("data-spotx_vast_url", "" + bid.vastUrl);
-												 script.setAttribute("data-spotx_content_width", playerWidth);
-												 script.setAttribute("data-spotx_content_height", playerHeight);
-												 script.setAttribute("data-spotx_content_page_url",bid.renderer.config.content_page_url);
-												 script.setAttribute("data-spotx_ad_unit", "incontent");
-												 script.setAttribute("data-spotx_autoplay", "1");
-												 script.setAttribute("data-spotx_ad_skippable", "1");
-												 script.setAttribute("data-spotx_ad_skip_delay", "5");
-												 script.setAttribute("data-spotx_media_transcoding", "low");
-												 script.setAttribute("data-spotx_ad_done_function", "myAdDoneFunction");
-
-												 if(window.location.hostname=='www.straitstimes.com' || window.location.hostname=='www.asiaone.com'){script.setAttribute("data-spotx_ad_max_duration", "240");}
-												 
-											   if (window.location.hostname.includes("straitstimes")) {
-													 script.setAttribute(
-													   "data-spotx_content_container_id",
-													   dvSpotx.id
-													 );
-											   } else {
-													 script.setAttribute(
-													   "data-spotx_content_container_id",
-													   videoDiv
-													 );
-												}
-
-											   //vid_contain.style.cssText = "display: none; margin-bottom: 20px";
-											   vid_contain.appendChild(script);
-											   },
+											   
+											   outstream_function: myOutstreamFunction
 											 }
 
 									}]
@@ -2536,6 +2275,37 @@ function disableadunit(evt)
 
 	
 //if ( window.location.hostname == "www.straitstimes.com"  ||  window.location.hostname == "www.businesstimes.com.sg" ) { var topOverlayImpressions = 3; }
+function myOutstreamFunction(bid) {
+			    const videoDiv = 'video1';
+			    const playerWidth = 640;
+			    const playerHeight = 480;
+
+			    window.console.log('[SPOTX][renderer] Handle SpotX custom outstream renderer');
+			    let script = window.document.createElement('script');
+			    script.type = 'text/javascript';
+			    script.src = '//js.spotx.tv/easi/v1/' + bid.channel_id + '.js';
+			    script.setAttribute('data-spotx_channel_id', '' + bid.channel_id);
+			    script.setAttribute('data-spotx_vast_url', '' + bid.vastUrl);
+			    script.setAttribute('data-spotx_content_width', playerWidth);
+			    script.setAttribute('data-spotx_content_height', playerHeight);
+			    script.setAttribute('data-spotx_content_page_url', bid.renderer.config.content_page_url);
+			    if (bid.renderer.config.ad_mute) {
+			        script.setAttribute('data-spotx_ad_mute', '1');
+			    }
+			    script.setAttribute('data-spotx_ad_unit', 'incontent');
+			    script.setAttribute('data-spotx_collapse', '0');
+			    script.setAttribute('data-spotx_hide_fullscreen', '1');
+			    script.setAttribute('data-spotx_autoplay', '1');
+			    script.setAttribute('data-spotx_blocked_autoplay_override_mode', '1');
+			    script.setAttribute('data-spotx_video_slot_can_autoplay', '1');
+			    script.setAttribute('data-spotx_unmute_on_mouse', '1');
+			    script.setAttribute('data-spotx_click_to_replay', '1');
+			    script.setAttribute('data-spotx_continue_out_of_view', '1');
+			    script.setAttribute('data-spotx_ad_volume', '1');
+			    
+			    window.document.getElementById(videoDiv).appendChild(script);
+			    
+			}
 
 
 window.top.unruly = window.top.unruly || {};
