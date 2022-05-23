@@ -948,7 +948,6 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											 params: {
 											   channel_id: spotx_sph_id,
 											   ad_unit: "outstream",
-											   
 											   outstream_function: myOutstreamFunction
 											 }
 
@@ -2276,6 +2275,7 @@ function disableadunit(evt)
 	
 //if ( window.location.hostname == "www.straitstimes.com"  ||  window.location.hostname == "www.businesstimes.com.sg" ) { var topOverlayImpressions = 3; }
 function myOutstreamFunction(bid) {
+	alert('asd');
 			    const videoDiv = 'video1';
 			    const playerWidth = 640;
 			    const playerHeight = 480;
