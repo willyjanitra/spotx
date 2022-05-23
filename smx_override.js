@@ -787,7 +787,7 @@ if (typeof loaded_dfp_tags !== 'undefined')
 
 
 
-	var spotx_sph_id = '317235';//spotx_sph_ids[intIndex];
+	var spotx_sph_id = '314962';//spotx_sph_ids[intIndex];
 
 
 	if(window.location.href.indexOf("https://www.straitstimes.com/life") == 0) 
@@ -948,7 +948,24 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											 params: {
 											   channel_id: spotx_sph_id,
 											   ad_unit: "outstream",
-											   outstream_function: myOutstreamFunction
+											   
+											   outstream_options: {
+									                slot: 'adSlot1',
+									                custom_override: {
+									                    // All custom_override properties are optional.
+									                    // For options that can be used, see
+									                    // https://developer.spotxchange.com/content/local/docs/sdkDocs/EASI/easi-integration.md#common-javascript-attributes
+									                    content_width: 640,
+									                    content_height: 360,
+									                    collapse: '1',
+									                    hide_fullscreen: '1',
+									                    unmute_on_mouse: '1',
+									                    continue_out_of_view: '1',
+									                    ad_volume: '1',
+									                    content_container_id: 'video1',
+									                    hide_skin: '1'
+									                }
+									            }
 											 }
 
 									}]
@@ -2275,7 +2292,6 @@ function disableadunit(evt)
 	
 //if ( window.location.hostname == "www.straitstimes.com"  ||  window.location.hostname == "www.businesstimes.com.sg" ) { var topOverlayImpressions = 3; }
 function myOutstreamFunction(bid) {
-	alert('asd');
 			    const videoDiv = 'video1';
 			    const playerWidth = 640;
 			    const playerHeight = 480;
