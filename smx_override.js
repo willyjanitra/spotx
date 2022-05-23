@@ -947,25 +947,7 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											labelAny: ["desktop", "tablet", "phone"],
 											 params: {
 											   channel_id: spotx_sph_id,
-											   ad_unit: "outstream",
-											   
-											   outstream_options: {
-									                slot: 'adSlot1',
-									                custom_override: {
-									                    // All custom_override properties are optional.
-									                    // For options that can be used, see
-									                    // https://developer.spotxchange.com/content/local/docs/sdkDocs/EASI/easi-integration.md#common-javascript-attributes
-									                    content_width: 640,
-									                    content_height: 360,
-									                    collapse: '1',
-									                    hide_fullscreen: '1',
-									                    unmute_on_mouse: '1',
-									                    continue_out_of_view: '1',
-									                    ad_volume: '1',
-									                    content_container_id: 'video1',
-									                    hide_skin: '1'
-									                }
-									            }
+											   ad_unit: "outstream"
 											 }
 
 									}]
