@@ -947,7 +947,19 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											labelAny: ["desktop", "tablet", "phone"],
 											 params: {
 											   channel_id: spotx_sph_id,
-											   ad_unit: "outstream"
+											   ad_unit: "outstream",
+											   outstream_options: {
+								                custom_override: {
+								                    content_width: 640,
+								                    content_height: 480,
+								                    collapse: '1',
+								                    hide_fullscreen: '1',
+								                    unmute_on_mouse: '1',
+								                    continue_out_of_view: '1',
+								                    ad_volume: '1',
+								                    content_container_id: 'video1',
+								                    hide_skin: '1'
+								                }
 											 }
 
 									}]
