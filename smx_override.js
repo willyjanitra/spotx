@@ -949,6 +949,7 @@ if (typeof loaded_dfp_tags !== 'undefined')
 											   channel_id: spotx_sph_id,
 											   ad_unit: "outstream",
 											   outstream_options: {
+									                slot: 'adSlot1',
 									                custom_override: {
 									                    // All custom_override properties are optional.
 									                    // For options that can be used, see
