@@ -787,7 +787,7 @@ if (typeof loaded_dfp_tags !== 'undefined')
 
 
 
-	var spotx_sph_id = '314962';//spotx_sph_ids[intIndex];
+	var spotx_sph_id = '317235';//spotx_sph_ids[intIndex];
 
 
 	if(window.location.href.indexOf("https://www.straitstimes.com/life") == 0) 
