@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VAST version="2.0">
+	<Ad id="rrykp17d-3c67b.4676b.f682">
+		<InLine>
+			<AdSystem version="1.0">SpotXchange</AdSystem>
+			<AdTitle><![CDATA[Rexona_Titan Men Core_ Catch All Male 18-45 - Exclude Above_June2022_ULTRA_Video_VPAID_6s]]></AdTitle>
+			<Description><![CDATA[Rexona_Titan Men Core_ Catch All Male 18-45 - Exclude Above_June2022_ULTRA_Video_VPAID_6s]]></Description>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:06</Duration>
+						<AdParameters><![CDATA[{
+    "ad_id": "rrykp17d-3c67b.4676b.f682",
+    "title": "Rexona_Titan Men Core_ Catch All Male 18-45 - Exclude Above_June2022_ULTRA_Video_VPAID_6s",
+    "page_url": "https://search.spotxchange.com/click?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFiVtLw0AUhI8%2FaDfnnN1sGsE3QSpNpNAq5m1zMxubCyatSfG%2Fa6oFZ2CYb0ZLRAAgY5DCUBsNnFOhstKnUJVERZ6alU%2FWDxCzFBEDUBwaVrC%2BB1qhZB1K8ln6BNU49sOt5zXy5HLXyaxrvE87ZpUXECtmJcrj4SCayyRcm3dtMTgrToNoZts29kPYshRHMiLt5kFklW1617VD5XrByAzxfrMB1oGmEG7%2B6DcIvheB0Tgpgwv%2BX9f%2FYvx6elhPSZ27pI7mmLdTfN5PEW8pPr%2Fp15el188u2j2%2BJ7vo7gfT6FBc&_l=eNp1kG1LwzAQx%2FNZ8lpKntqkA98NYbBWxOrs3pT0mmpnH0JtdQ%2Fuu5vRDYYilzvC7%2F7%2FuxCKKPJdUuQOh0DmnghkkHtloNhfsJgjggqja6c%2BYI5nB5xXBZ5h4hFCGcU32OpdNw4XRFToWGnMGZxFH9a0v2xjXleQmS286fbVZFcW4tow9nowRdbo%2Ft0MttZg%2FtXa3jTV2JxwBrY5tfDxiOKn5XIq7vGPthteJjsa26o2n6b3oGuQlkwoASUUspAUQsGFL3PQOaPAuFJIEqaQLxkPESPCnyYyIQUNr1YQF1yqkLuP%2FY726TbeRzTa3NVx8rBbz1MRbYCtk8VXvHpuYnePk0jcr9LbHxuaa78%3D&_t=eNoly11rgzAUBuD8llyXceJnjfSiMAq7sGPQIvZGYkxtrJpgslHn%2FO%2BL7bk4H8%2Fh5Z3kd%2BTVHrsGVUwS%2F0qIqKtoGxIWxgC8AoAY8RuTA1JjwwbJEX%2BGZmwEG%2FmtNFpwTGes2ch6YcVo1qsWP5KLdRMPuw6jlX2ULy6Z1qWdtPuTZYN7VYsO02CDlcuGiyuEyBsAYjSgs3ENc2knnEoaQJSEJDU0dqa%2BBzs%2BmQA4iygeRSPVsJIfJADkpU2nKtatCumC%2FHib%2BOTv8r6fsryYLqd7eGwPbfG794v87BWng%2FzMMy9rz6TwPqZj%2F7X7B5Y3XIM%3D&_b=eNpVUV1v2yAUzY9JeHPCh21gEqqWtOs6panWuJuSFwsb4qDYxjI4S6v9%2BBFnexi64nKPzgXOPXBy9L5znxaLws2d7s%2BmrSL37ualbRbbW72Q6nrS%2Fbxwd2UrjDOgq8WPz9sM2M6%2FDF5AYM4CA9N63cvSG9u6re8FgowynJAYzehDCHhL10geVrUpT%2FO1abXs5zgwYw5Tlvyl%2FQcghCAEnXWCUAyBLl5lq2wjECMpT9KEQUJTlEJKOVBVeJZSjDCnEHgpIgSGoKy09mS0GLDQnCvEEI1oimEUE3WIipTAKMEEFVTL9KA0qFTX52XQoVsvxkoAp50L0owSBIYPEQwxSRnjnMc0Br0fxHT6b5zuaLvIqKjXF9vKcZxGLW7VAscQsrvBN3mjlRkaoYzravkOrpCzQ19q4Y%2Fa91Jppd1pxEvZdNJUrciMl%2B0Mwxlmr%2BN9M8zz1QbCGBGWr76GYcX5MiQM86f7W68NzgQhZ6O0zZVqmkPU%2Bwp1aiijsEdyqDAeqcHBRix7K9V0Otm8rdcTrHDBODsgTg4IaVUEU5BMKIRl8SWskfV797Gs99npsr%2Ff4c3Hd%2FTcfDs%2BP75dNj93v%2FZZlbxktdlk%2B3r%2F%2BCT%2BAMitxOI%3D&daid=rrykp17d",
+    "media": {
+        "video": [
+            {
+                "vpi": "VPAID_JS",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D",
+                "scalable": "",
+                "maintain_aspect_ratio": "",
+                "width": "640",
+                "mime_type": "application/javascript",
+                "media_id": "",
+                "height": "360",
+                "api_framework": "VPAID",
+                "page_url": null,
+                "media_url": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D"
+            },
+            {
+                "vpi": "VPAID_JS",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D",
+                "scalable": "",
+                "maintain_aspect_ratio": "",
+                "width": "640",
+                "mime_type": "application/javascript",
+                "media_id": "",
+                "height": "360",
+                "api_framework": "VPAID",
+                "media_url": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D"
+            },
+            {
+                "vpi": "VPAID_JS",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D",
+                "scalable": "",
+                "maintain_aspect_ratio": "",
+                "width": "640",
+                "mime_type": "application/javascript",
+                "media_id": "",
+                "height": "360",
+                "api_framework": "VPAID",
+                "media_url": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A3%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%2C%22115%22%3A19%7D%2C%22adServingId%22%3A%2278ae4e16-586a-4c70-8aa5-d88761c81441%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D"
+            },
+            {
+                "vpi": "MP4",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4",
+                "scalable": "true",
+                "maintain_aspect_ratio": "true",
+                "width": "640",
+                "mime_type": "video/mp4",
+                "media_id": "2087732902",
+                "height": "360",
+                "bitrate": 1779,
+                "api_framework": "",
+                "media_url": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4"
+            },
+            {
+                "vpi": "MP4",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4",
+                "scalable": "true",
+                "maintain_aspect_ratio": "true",
+                "width": "640",
+                "mime_type": "video/mp4",
+                "media_id": "2087732902",
+                "height": "360",
+                "bitrate": 1779,
+                "api_framework": "",
+                "media_url": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4"
+            },
+            {
+                "vpi": "MP4",
+                "playtime": 6,
+                "transcoding": [
+                    "low",
+                    "medium",
+                    "high"
+                ],
+                "delivery": "progressive",
+                "source_uri_external": true,
+                "source_uri": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4",
+                "scalable": "true",
+                "maintain_aspect_ratio": "true",
+                "width": "640",
+                "mime_type": "video/mp4",
+                "media_id": "2087732902",
+                "height": "360",
+                "bitrate": 1779,
+                "api_framework": "",
+                "media_url": "https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4"
+            }
+        ],
+        "tracking": {
+            "beacon": [
+                {
+                    "type": "impression",
+                    "beacon_url": "https://sin01-event.spotxchange.com/vast/impression?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCI2NmU2ZDQ3NC03MDFlLTExZWMtOGNlZS0xYjA4ZDZhNDAzMDciLHRydWUsbnVsbCxbIjI0NzQxOSIsIjMyOTYyMyIsIjcwMjgiLCIyMDQ1IiwibS52aWRpby5jb20iLDEwMCxbInVuaWxldmVyLmNvbSJdLDEyMTAwLDEyMTAwLDEwODg5LDEwODg5LDEyMDldLDEyMTAwLCJMIiwiMmQyYWY0YjcxOTNmMTFlZGI2ODUxYTU3MDBjYjAwMDciLG51bGwsbnVsbF0mc2V0ZWM9TnpSa05XRm1NRFExTlRVMk1UWTVZak0wWm1ZeFlqWXlOVGhpTldGa1l6RT0~",
+                    "with_creds": false
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://event.spotxchange.com/vast/complete?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCI2NmU2ZDQ3NC03MDFlLTExZWMtOGNlZS0xYjA4ZDZhNDAzMDciLHRydWUsbnVsbCxbIjI0NzQxOSIsIjMyOTYyMyIsIjcwMjgiLCIyMDQ1IiwibS52aWRpby5jb20iLDEwMCxbInVuaWxldmVyLmNvbSJdLDEyMTAwLDEyMTAwLDEwODg5LDEwODg5LDEyMDldLDEyMTAwLCJMIiwiMmQyYWY0YjcxOTNmMTFlZGI2ODUxYTU3MDBjYjAwMDciLG51bGwsbnVsbF0mc2V0ZWM9TnpSa05XRm1NRFExTlRVMk1UWTVZak0wWm1ZeFlqWXlOVGhpTldGa1l6RT0~",
+                    "with_creds": false
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://event.spotxchange.com/vast/25?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCIyZDJhZjRiNzE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyIsbnVsbCxudWxsXSZzZXRlYz1PVGd4TldJeVltVmlOR1V5TURjek1XUmxaVEUzTm1VeE5tVmhNemd5TnpBPQ~~",
+                    "with_creds": false
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://event.spotxchange.com/vast/50?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCIyZDJhZjRiNzE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyIsbnVsbCxudWxsXSZzZXRlYz1PVGd4TldJeVltVmlOR1V5TURjek1XUmxaVEUzTm1VeE5tVmhNemd5TnpBPQ~~",
+                    "with_creds": false
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://event.spotxchange.com/vast/75?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCIyZDJhZjRiNzE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyIsbnVsbCxudWxsXSZzZXRlYz1PVGd4TldJeVltVmlOR1V5TURjek1XUmxaVEUzTm1VeE5tVmhNemd5TnpBPQ~~",
+                    "with_creds": false
+                },
+                {
+                    "type": "event",
+                    "beacon_url": "https://event.spotxchange.com/event/d?_x=WzE2NjAxOTk0NjQsIjJkMWUzY2Y1MTkzZjExZWRiNjg1MWE1NzAwY2IwMDA3IiwiMzI5NjIzIiwiM2M2N2IuNDY3NmIuZjY4MiIsIjcwMjgiLCIzYzY3Yi40Njc2Yi5mNjgyIiwicnJ5a3AxN2QiLCIyZDJhZjRiNzE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyIsIiIsIiJdJnNldGVjPU9USXlORFl5TmpKallqWXhZbVEyTldSallXTXlNVGMyT1RaaFpUQXpZamM9&es=$EVENT_SOURCE&ts=$TS&eid=$EVENT_ID",
+                    "with_creds": false
+                },
+                {
+                    "type": "exception",
+                    "beacon_url": "https://search.spotxchange.com/exception?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFiVtLw0AUhI8%2FaDfnnN1sGsE3QSpNpNAq5m1zMxubCyatSfG%2Fa6oFZ2CYb0ZLRAAgY5DCUBsNnFOhstKnUJVERZ6alU%2FWDxCzFBEDUBwaVrC%2BB1qhZB1K8ln6BNU49sOt5zXy5HLXyaxrvE87ZpUXECtmJcrj4SCayyRcm3dtMTgrToNoZts29kPYshRHMiLt5kFklW1617VD5XrByAzxfrMB1oGmEG7%2B6DcIvheB0Tgpgwv%2BX9f%2FYvx6elhPSZ27pI7mmLdTfN5PEW8pPr%2Fp15el188u2j2%2BJ7vo7gfT6FBc&_l=eNp1kG1LwzAQx%2FNZ8lpKntqkA98NYbBWxOrs3pT0mmpnH0JtdQ%2Fuu5vRDYYilzvC7%2F7%2FuxCKKPJdUuQOh0DmnghkkHtloNhfsJgjggqja6c%2BYI5nB5xXBZ5h4hFCGcU32OpdNw4XRFToWGnMGZxFH9a0v2xjXleQmS286fbVZFcW4tow9nowRdbo%2Ft0MttZg%2FtXa3jTV2JxwBrY5tfDxiOKn5XIq7vGPthteJjsa26o2n6b3oGuQlkwoASUUspAUQsGFL3PQOaPAuFJIEqaQLxkPESPCnyYyIQUNr1YQF1yqkLuP%2FY726TbeRzTa3NVx8rBbz1MRbYCtk8VXvHpuYnePk0jcr9LbHxuaa78%3D&_t=eNo9UdFy2yAQ1KdkeHZsJDmxo5k%2BuE2acWslnlZyx6k7DIJThSMLBrBjJ%2B2%2F91DS8LDH7bHcscBRgPFKd1EiE16Pq0l8ldZxDLK6nF7E%2FGJCqagopZNINFx1kba%2FeadEBO%2FCF1IBF7pj%2FmSAZOS9QgbEtPzk1S7Ql5gelATNDrxVktXKOs9qy%2FsqFrlk7uQ87Ej2QqyvQkC9r7XdMSyipuGuIVm3b9sBqQEk29sWxY33JtuMNiOnuvNKyXNntD8OuXT2YIc48WaEbA8SLB4LZezoRAN9d22gw44sYUmY0iiS%2FSSr5Wx%2BjWkf2ZfvuM2XY8TPixXij5uPeaDScophNvvUV%2FqQL9OA4xni%2FW3Ab%2FdfSwzFCq%2F5hY33xmjr3euzSObtHgZEtAo6zxyaRDL6FwcB64KPGYmHFOWSe45J0cBZYbmEs2twjwQPOuBWNMwZEL1rPLjqUR0yCQclIOzg6EPon89eacaNefu4YCvetdMS2v8ma%2FfG44oinIJGd%2BViEaWT6VUa%2F3ko1s%2F5tt3lRUnz2%2FyUJzdP%2BbZ8yp8fmnUyp%2Bti9Yhcut7OP%2FwDAhbHdg%3D%3D&_b=eNozZfAL9fFBI2r8QzxNolwiK%2FxDkkF0VZS7W5ZfladJZJavkV94VK6%2Fi6exX4hTpr97qC0AcfcToA%3D%3D&daid=rrykp17d&beacon_type=exception&exception%5Bid%5D=%24EXCEPTION_ID&exception%5Bdata%5D=%24EXCEPTION_DATA&exception%5Btrace%5D=%24EXCEPTION_TRACE&syn%5Btiming%5D=%24TIMING_DATA"
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://search.spotxchange.com/beacon?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFi8kKwkAQRPuLpHuWHufgRRIhEEcCyWFyM6tIvGvjt6vjAr6CguJRZoUIAMSM5L1hA2qgUfeTJa8nonHoeG3paB1i3yGiA608Kw1Fln6gjDPk4fEBQlOW3yJ4JoANXjVjmn%2F18%2B%2FgPch8C%2BfdZa8qibJdokQMspyCNNJmsz3UBYW6sm2db1459DDL&_l=eNp1kM1qwzAQhPUsOhejH8uyA725BEOkUnAvuRhZ3qSOrVS4Nq2T5t0rkxRCobC7h29mDrMUUSTCUhSGIG4TWUdxIpM62iUpQ0UeaAOmD%2FIZc7w647pt8AqTiBDKKH7A3szv0%2FiLSJoFtgO4gZvpw8PxT2yq%2B9ZW8GXfzHEP1V2EBNlOgxmhqZwZOhh9byz86%2FUDuHZyC66sd4uELxekXzeb61nqoVBESMYzxEgsrpzFMqbZnZEsP5BpxkPg%2B7nshD698G2uiFoXYnuws86LWR%2BaTpd7opz6VGVxUuunxx8iCVUM&_t=eNo1UV1z2jAQ9E%2FJ6JmAjSEQz%2FSB1tBpih2m4WNI6Whk6RyrMZZGkhlo2v%2Bek0n9sHt3q9WdzgUwrppgKIasHBWT6D4uowhEcTcdR2w8CUNehGE4CXjFZBMo88IayYPi6noj14C6iwaSEAO8NUY2L6RHdM0uTh59%2BQ7TkxSg6InVUtBSGutoaVinosgEtRfr4EiSN2Jc4Qn9rlTmSFFET8VsRZKmreseKQEEbU2N5so5nRwGh4GVzW0hxa3Vyp37TFhzMn0c9zDAagcCDB7zMna0vIKuu9LQYEc6pEM%2FpZYk%2BUm2q9m3FNOO6cMThtlqhLhYbhF388%2BZL8WbKdJs9qVTOspWscfRDPHxq8cfj983SOstXvMLG7daK%2BPs9VkkcaaFHuG1hMZRi0siSfgPBwFjpWpwwKgfol0wxzBZV3CzNkzATQr2leBBC8zwiloNvNsa81t16PaZgJPk4CM4O0%2Fd8%2Bm1TJnWHz%2FOrxXvOioB9f8lK%2FtRxy8IcIowyDfLZRBPpvdx9Pf5mMX5bn%2FJ0weZ%2F9mPsnR%2BznaLer%2Bbj5%2FTxStqcf47izD%2F9A5WtcQu&_b=eNozYfAL9fFBI2r8w12NI3N9TfyyHE39QzKyorIcDfxcko19qxxNfF2CsiOznDL9XPyyfatCbQFnrxOe&beacon_type=recurring&view_percent=75"
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://search.spotxchange.com/beacon?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFi8kKwkAQRPuLpHuWHufgRRIhEEcCyWFyM6tIvGvjt6vjAr6CguJRZoUIAMSM5L1hA2qgUfeTJa8nonHoeG3paB1i3yGiA608Kw1Fln6gjDPk4fEBQlOW3yJ4JoANXjVjmn%2F18%2B%2FgPch8C%2BfdZa8qibJdokQMspyCNNJmsz3UBYW6sm2db1459DDL&_l=eNp1kM1qwzAQhPUsOhejH8uyA725BEOkUnAvuRhZ3qSOrVS4Nq2T5t0rkxRCobC7h29mDrMUUSTCUhSGIG4TWUdxIpM62iUpQ0UeaAOmD%2FIZc7w647pt8AqTiBDKKH7A3szv0%2FiLSJoFtgO4gZvpw8PxT2yq%2B9ZW8GXfzHEP1V2EBNlOgxmhqZwZOhh9byz86%2FUDuHZyC66sd4uELxekXzeb61nqoVBESMYzxEgsrpzFMqbZnZEsP5BpxkPg%2B7nshD698G2uiFoXYnuws86LWR%2BaTpd7opz6VGVxUuunxx8iCVUM&_t=eNo1UV1z2jAQ9E%2FJ6JmAjSEQz%2FSB1tBpih2m4WNI6Whk6RyrMZZGkhlo2v%2Bek0n9sHt3q9WdzgUwrppgKIasHBWT6D4uowhEcTcdR2w8CUNehGE4CXjFZBMo88IayYPi6noj14C6iwaSEAO8NUY2L6RHdM0uTh59%2BQ7TkxSg6InVUtBSGutoaVinosgEtRfr4EiSN2Jc4Qn9rlTmSFFET8VsRZKmreseKQEEbU2N5so5nRwGh4GVzW0hxa3Vyp37TFhzMn0c9zDAagcCDB7zMna0vIKuu9LQYEc6pEM%2FpZYk%2BUm2q9m3FNOO6cMThtlqhLhYbhF388%2BZL8WbKdJs9qVTOspWscfRDPHxq8cfj983SOstXvMLG7daK%2BPs9VkkcaaFHuG1hMZRi0siSfgPBwFjpWpwwKgfol0wxzBZV3CzNkzATQr2leBBC8zwiloNvNsa81t16PaZgJPk4CM4O0%2Fd8%2Bm1TJnWHz%2FOrxXvOioB9f8lK%2FtRxy8IcIowyDfLZRBPpvdx9Pf5mMX5bn%2FJ0weZ%2F9mPsnR%2BznaLer%2Bbj5%2FTxStqcf47izD%2F9A5WtcQu&_b=eNozZvAL9fFBI2r8srJN%2FENcjf1cnHIjQ6Jyo3J9q6LC%2FbJ9XVwrfKu8cn1dQg0ic%2F2AMNQWAHwnFGs%3D&beacon_type=recurring&view_percent=50"
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://search.spotxchange.com/beacon?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFi8kKwkAQRPuLpHuWHufgRRIhEEcCyWFyM6tIvGvjt6vjAr6CguJRZoUIAMSM5L1hA2qgUfeTJa8nonHoeG3paB1i3yGiA608Kw1Fln6gjDPk4fEBQlOW3yJ4JoANXjVjmn%2F18%2B%2FgPch8C%2BfdZa8qibJdokQMspyCNNJmsz3UBYW6sm2db1459DDL&_l=eNp1kM1qwzAQhPUsOhejH8uyA725BEOkUnAvuRhZ3qSOrVS4Nq2T5t0rkxRCobC7h29mDrMUUSTCUhSGIG4TWUdxIpM62iUpQ0UeaAOmD%2FIZc7w647pt8AqTiBDKKH7A3szv0%2FiLSJoFtgO4gZvpw8PxT2yq%2B9ZW8GXfzHEP1V2EBNlOgxmhqZwZOhh9byz86%2FUDuHZyC66sd4uELxekXzeb61nqoVBESMYzxEgsrpzFMqbZnZEsP5BpxkPg%2B7nshD698G2uiFoXYnuws86LWR%2BaTpd7opz6VGVxUuunxx8iCVUM&_t=eNo1UV1z2jAQ9E%2FJ6JmAjSEQz%2FSB1tBpih2m4WNI6Whk6RyrMZZGkhlo2v%2Bek0n9sHt3q9WdzgUwrppgKIasHBWT6D4uowhEcTcdR2w8CUNehGE4CXjFZBMo88IayYPi6noj14C6iwaSEAO8NUY2L6RHdM0uTh59%2BQ7TkxSg6InVUtBSGutoaVinosgEtRfr4EiSN2Jc4Qn9rlTmSFFET8VsRZKmreseKQEEbU2N5so5nRwGh4GVzW0hxa3Vyp37TFhzMn0c9zDAagcCDB7zMna0vIKuu9LQYEc6pEM%2FpZYk%2BUm2q9m3FNOO6cMThtlqhLhYbhF388%2BZL8WbKdJs9qVTOspWscfRDPHxq8cfj983SOstXvMLG7daK%2BPs9VkkcaaFHuG1hMZRi0siSfgPBwFjpWpwwKgfol0wxzBZV3CzNkzATQr2leBBC8zwiloNvNsa81t16PaZgJPk4CM4O0%2Fd8%2Bm1TJnWHz%2FOrxXvOioB9f8lK%2FtRxy8IcIowyDfLZRBPpvdx9Pf5mMX5bn%2FJ0weZ%2F9mPsnR%2BznaLer%2Bbj5%2FTxStqcf47izD%2F9A5WtcQu&_b=eNozYvAL9fFBI2p8qxwNIrOyK6JCUnL8XUIr%2FEIyMiOz0iv83X0rfLOyTX2rko38XVwrIqsibQGT7hUz&beacon_type=recurring&view_percent=25"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://search.spotxchange.com/beacon?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFi8kKwkAQRPuLpHuWHufgRRIhEEcCyWFyM6tIvGvjt6vjAr6CguJRZoUIAMSM5L1hA2qgUfeTJa8nonHoeG3paB1i3yGiA608Kw1Fln6gjDPk4fEBQlOW3yJ4JoANXjVjmn%2F18%2B%2FgPch8C%2BfdZa8qibJdokQMspyCNNJmsz3UBYW6sm2db1459DDL&_l=eNp1kM1qwzAQhPUsOhejH8uyA725BEOkUnAvuRhZ3qSOrVS4Nq2T5t0rkxRCobC7h29mDrMUUSTCUhSGIG4TWUdxIpM62iUpQ0UeaAOmD%2FIZc7w647pt8AqTiBDKKH7A3szv0%2FiLSJoFtgO4gZvpw8PxT2yq%2B9ZW8GXfzHEP1V2EBNlOgxmhqZwZOhh9byz86%2FUDuHZyC66sd4uELxekXzeb61nqoVBESMYzxEgsrpzFMqbZnZEsP5BpxkPg%2B7nshD698G2uiFoXYnuws86LWR%2BaTpd7opz6VGVxUuunxx8iCVUM&_t=eNo1UV1v2jAUzU%2Bp%2FEwhXy000h7Y0k4wAqgLVNGYLCe%2BWTyS2LINAnX777sOXR7OuR8%2BvtcnJbBK9l7IQ1bH5TR4iuogAF4%2Bzh4C9jD1%2Far0fX%2FqVQ0TvSf1L9aLyitvqndyC6i9KiAJqWSnWrBARkS17GpF56qPmJ4FB0nPrBWc1kIbS2vNhi42Gafmaix0JHkn2paOUG9rqTuKTdQ0zDQk6U9tOyI1AKcn3aK4sVYlh8lhYkR%2FXwp%2Bb5S0lzHjRp%2F1GLc9TLA6AAeNx1wbJ5qqgWG6VNDjRBrS0G2pBEl%2BkP12vkgxHZguv2OYbWPEl9Ue8e35c%2BZK0W6GNJ9%2FGToDZdvIYTxH3Hx1%2BLr5tkPK93jNTxx8Ukpqa27PIonVJxiRqhXQW2rQJJL4f3ER0EbIHhcMxj7KObMMk7yBu1wzDncpmCPBgwaYrhpqFFSDa8y5alHtMg5nUYGL4GIdDc%2BntzJlSn38N2cr3tVJDu1%2Fk6X5qOPnebiF7613q5UXTWdPUfAn6xZx8Vb469%2FHoOiyS5a%2FHrPwRazT5bEIi2CTPsdFvmyzdPHpHzzTw2U%3D&_b=eNozZPAL9fFBI2ois8Iy%2FN2DcvyqPCsjq7KN%2FKqSjaNy3TKjXMIy%2FLKyTfyyXMsjszyNfLN8bQGSHxTj&beacon_type=complete"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://sin01-search.spotxchange.com/beacon?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFiVtLw0AUhI8%2FaDfnnN1sGsE3QSpNpNAq5m1zMxubCyatSfG%2Fa6oFZ2CYb0ZLRAAgY5DCUBsNnFOhstKnUJVERZ6alU%2FWDxCzFBEDUBwaVrC%2BB1qhZB1K8ln6BNU49sOt5zXy5HLXyaxrvE87ZpUXECtmJcrj4SCayyRcm3dtMTgrToNoZts29kPYshRHMiLt5kFklW1617VD5XrByAzxfrMB1oGmEG7%2B6DcIvheB0Tgpgwv%2BX9f%2FYvx6elhPSZ27pI7mmLdTfN5PEW8pPr%2Fp15el188u2j2%2BJ7vo7gfT6FBc&_l=eNp1kG1LwzAQx%2FNZ8lpKntqkA98NYbBWxOrs3pT0mmpnH0JtdQ%2Fuu5vRDYYilzvC7%2F7%2FuxCKKPJdUuQOh0DmnghkkHtloNhfsJgjggqja6c%2BYI5nB5xXBZ5h4hFCGcU32OpdNw4XRFToWGnMGZxFH9a0v2xjXleQmS286fbVZFcW4tow9nowRdbo%2Ft0MttZg%2FtXa3jTV2JxwBrY5tfDxiOKn5XIq7vGPthteJjsa26o2n6b3oGuQlkwoASUUspAUQsGFL3PQOaPAuFJIEqaQLxkPESPCnyYyIQUNr1YQF1yqkLuP%2FY726TbeRzTa3NVx8rBbz1MRbYCtk8VXvHpuYnePk0jcr9LbHxuaa78%3D&_t=eNotUduO2jAQzaes%2FMyyNgk3oz7Qsq16SZZuAytUKsuJHWJtEke2QQTKv3ccmodzZs74eMaTTPJcN8FIjHgRZVMyDwtCpMgmszHh4ynGeYYxngZ5yVUTaHPgjcqD7O66onvAXNdKRJF13Dg0QG3FO6dqL00gPSkhNTvxSglWKGMdKwzvq1DkgtnOOlkjekXGZZ7A7wptagZF8JTclog2x6oaoEJKwY6mAnPpXEv3T%2Fsnq5rHTIlH22p3HnJhzckMYdT9E6g9CGngmC9DR5uXsu%2BuW9lARzZiIz9lqxD9jbbr5dcVpD2zb78gjNcR4OcfW8C354%2Bxl8LNDGi5%2FNRXeorXocdoCfjyxePry%2FcNULqFa%2F5A42PbauPs%2FVmIOnOUA5RXSjaOWVgSovgGg0hjlW5gQDLEYBfccUjSUj6khgv5sJL2HcFBK7nJS2Zbmfdb436rDtw%2BE%2FKkcukjeXae%2Buezu8x42%2F7%2FaQQuqrWQsNFogDR4xzf4ggCa44DTiF4tAMqV69BC0QhP5mOysHQKmj42zvQywRi0CUVGHvzwIIXRHGNyVw%2BVznjlVby4BeF0Ng%2FJ3%2BTtJ95dXuv4suuS9HDe1c%2FjpN50yWWrktVWxemBxHV8TtL3D%2F8A%2B4jW9Q%3D%3D&_b=eNozYPAL9fFBI2r8qiINfbNCDSOr%2FHJ8s7IrI41CTXyNIk0jQ5LLI7MCjf3cA6v8w8OyfXMDbQF9gxRO&beacon_type=start&aid=66e6d474-701e-11ec-8cee-1b08d6a40307&syn%5Btiming%5D=%24TIMING_DATA"
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://search.spotxchange.com/click?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFiVtLw0AUhI8%2FaDfnnN1sGsE3QSpNpNAq5m1zMxubCyatSfG%2Fa6oFZ2CYb0ZLRAAgY5DCUBsNnFOhstKnUJVERZ6alU%2FWDxCzFBEDUBwaVrC%2BB1qhZB1K8ln6BNU49sOt5zXy5HLXyaxrvE87ZpUXECtmJcrj4SCayyRcm3dtMTgrToNoZts29kPYshRHMiLt5kFklW1617VD5XrByAzxfrMB1oGmEG7%2B6DcIvheB0Tgpgwv%2BX9f%2FYvx6elhPSZ27pI7mmLdTfN5PEW8pPr%2Fp15el188u2j2%2BJ7vo7gfT6FBc&_l=eNp1kG1LwzAQx%2FNZ8lpKntqkA98NYbBWxOrs3pT0mmpnH0JtdQ%2Fuu5vRDYYilzvC7%2F7%2FuxCKKPJdUuQOh0DmnghkkHtloNhfsJgjggqja6c%2BYI5nB5xXBZ5h4hFCGcU32OpdNw4XRFToWGnMGZxFH9a0v2xjXleQmS286fbVZFcW4tow9nowRdbo%2Ft0MttZg%2FtXa3jTV2JxwBrY5tfDxiOKn5XIq7vGPthteJjsa26o2n6b3oGuQlkwoASUUspAUQsGFL3PQOaPAuFJIEqaQLxkPESPCnyYyIQUNr1YQF1yqkLuP%2FY726TbeRzTa3NVx8rBbz1MRbYCtk8VXvHpuYnePk0jcr9LbHxuaa78%3D&_t=eNotkE9v4yAQxf1ZOFddiB27cbSHlar0FFe7F6v%2FZGGY2JNiYwFJk2bz3TvU5QDzfnqPGVAG1Xuy0Au5y9pCrNKdEKDb%2FG4p5LLgXLWc8yJRvcQxsa6TI6rkiBpso76jFzaARtmgZiVjN2xn3SDDXAcnR6%2BsxrFj5Qsz9oNgtB8GKnrsevZGAAdownkCCslpoltlQDu%2B%2FtrLo%2FTK4RTIPRl5DuQkUx7boAGPnzA3apFahSg4qQ%2FUoY%2B%2BLKoeqE8cKM2jRN%2F44EAOzcGZOe1BOtU3fgLFygubpJMDBHA%2BKg1HVBArOIV4%2BMmGUzPjhub9GV1c6SVWA92Z3TBL2eWVVpKIW84TWWblxdPGFIYzW2OZ8Xy1FGtfFsTsYQzuGwvOieUlc9DRJ0SUZivOxUw7Y1tpIuXra5IWd6tU%2FK%2FqZ1M9PJ0e63%2FDdlHh8%2F3GbB8279vFZl99%2Fkmr%2Bq94rDf7p3r7%2BwvvmJvj&_b=eNozYGDwC%2FXxYTBKMUoyMU1LMrQ0TjM0TE1JMrMwNUw0NTcwSE5yAwKwqpqorEBjPxfH8siQQMPIqkBDvxBfw0ijoMyorKiMyBBPY7%2BssBy%2FrFADvyxXWwBQbBoI&daid=rrykp17d"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=display&pl=VAST&optOut=0&pos=3720&c=24&ai=1087825341&pluid=0&gdpr_consent=&gdpr=&ord=1836956580376160779&dg=1077212970&sdg=1078115972&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&sessionid=3010032023688999474&pcp=&vurl="
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/visit.jpg?vstevt=2&tagtype=video&ctx=15425320&cmp=1074418633&sid=1073890163&plc=1078226537&adsrv=166&aufilter1=pfvg03w&prr=1&ppid=102&autt=4&auevent=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&audeal=3c67b.4676b.f682&c1=pfvg03w&auadv=6nr3ohk&c2=75ujkz7&aucmp=6fx1w0y&aucrtv=rrykp17d&c3=spotx&c4=dv-51000298&pltfrm=247419&c5=m.vidio.com&c6=z0vnk5k&turl=m.vidio.com%2Fwatch%2F7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022&crt=1087825341&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d&dvtagver=dvot_0.8.122_389cd3a&vad=6000&dvp_dvotiu=1&dvp_zjsver=0.21.17&gdpr=0&dvp_psfts=1660199464759&dvp_psfst=ack&vstvr=2.0-i&dvp_blk=1&app=[APPBUNDLE]&essd=[SERVERSIDE]"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1078226537%26ord%3D323603&ea=impression&cm114=3&cm115=8&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=15425320&cd191=1074418633&cd192=1073890163&cd193=1078226537&cd195=1&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=2022-08-11T06%3A31%3A04.758Z&cd143=1660199464.9808&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://sg2-bid.adsrvr.org/bid/feedback/spotx?t=1&iid=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&crid=rrykp17d&wp=0.7818&aid=1&wpc=USD&sfe=152c2228&puid=&tdid=6c6efde4-9512-43e3-b21a-a4899b163182&pid=pfvg03w&ag=75ujkz7&adv=6nr3ohk&sig=1lLelyNtp6ER1c6riSc4EXHtYeEkthxxOOK_hOCpFzVY.&bp=1.54777917864175&cf=3656364&fq=0&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&uhow=111&agsa=&rgz=&svbttd=1&dt=Mobile&osf=Android&os=Android110&br=Chrome&rlangs=id&mlang=&svpid=247419&did=3c67b.4676b.f682&rcxt=Other&lat=-0.879600&lon=131.261000&tmpc=28.02&daid=&vp=1&osi=&osv=&sft=2&bx=120&bv=1&vvp=2&mk=Oppo&mdl=CPH1989&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&pcm=1&vc=4&said=2d1e3cf5193f11edb6851a5700cb0007&ict=Unknown&auct=3&im=1&mc=d4ec0c9c-420b-47ff-86ff-18195a01d4bb&csg=KAA."
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://unilever3.demdex.net/event?d_event=imp&d_bu=208227&d_src=196532&c_source=thetradedesk&c_ttd_advertiser=6nr3ohk&d_site=m.vidio.com&d_creative=rrykp17d&d_adgroup=75ujkz7&d_campaign=6fx1w0y&c_medium=display&c_site_category=dv-51000298&c_deal=3c67b.4676b.f682&c_location_city=Sorong&c_location_region=West Papua&c_location_zipcode=&c_devicetype=6&d_bust=1660199465"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/visit.jpg?vstevt=2&tagtype=video&ctx=818052&cmp=DV140326&sid=TTD&plc=vidview&advid=818053&adsrv=166&aucrtv=rrykp17d&c5=m.vidio.com&rtsurl=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fdv%2F%3Frtb%3DdD0xJmlpZD0wNmQ0NzIyMS0zZWQ3LTRmM2EtOWM2Zi0wZmNlNmI3MDgwY2YmY3JpZD1ycnlrcDE3ZCZ3cD0ke0FVQ1RJT05fTUJSfSZhaWQ9MSZ3cGM9VVNEJnNmZT0xNTJjMjIyOCZwdWlkPSZ0ZGlkPTZjNmVmZGU0LTk1MTItNDNlMy1iMjFhLWE0ODk5YjE2MzE4MiZwaWQ9cGZ2ZzAzdyZhZz03NXVqa3o3JmFkdj02bnIzb2hrJmJwPTEuNTQ3Nzc5MTc4NjQxNzUmY2Y9MzY1NjM2NCZmcT0wJnRkX3M9bS52aWRpby5jb20mcmNhdHM9Jm1jYXQ9ZHYtNTEwMDAyOTgmbXN0ZT0mbWZsZD00Jm1zc2k9Jm1mc2k9JnVob3c9MTExJmFnc2E9JnJnej0mc3ZidHRkPTEmZHQ9TW9iaWxlJm9zZj1BbmRyb2lkJm9zPUFuZHJvaWQxMTAmYnI9Q2hyb21lJnJsYW5ncz1pZCZtbGFuZz0mc3ZwaWQ9MjQ3NDE5JmRpZD0zYzY3Yi40Njc2Yi5mNjgyJnJjeHQ9T3RoZXImbGF0PS0wLjg3OTYwMCZsb249MTMxLjI2MTAwMCZ0bXBjPTI4LjAyJmRhaWQ9JnZwPTEmb3NpPSZvc3Y9JnNmdD0yJmJ4PTEyMCZidj0xJnZ2cD0mbWs9T3BwbyZtZGw9Q1BIMTk4OSZ2cGI9UHJlUm9sbCZjPUNnbEpibVJ2Ym1WemFXRVNDbGRsYzNRZ1VHRndkV0VhQUNJR1UyOXliMjVuTUFRNEFVZ0FVQUZZQVlBQkFZZ0JBcEFCQWJBQkFMb0JCUWk2Q1JnR3dBR1dIQS4uJmR1cj1DaU1LRG1Ob1lYSm5aUzFoYkd3dE1USXlJaEVJaHZfX19fX19fX19fQVJJRWFXRjJNZ3BTQ2paamFHRnlaMlV0WVd4c1QyWm1iR2x1WlVGMGRISnBZblYwYVc5dVNXNW1aWEp5WldSQ2NtRnVaRWx0Y0dGamRFUnBjM0JzWVhraUdBaXFfX19fX19fX19fOEJFZ3RwWW1rdE0zQmtMV0YwZEFvZENnZG1hM0ZzYzJJMEVKYl9CQ0lPQ0pPZnlZVUJFZ1J1YjI1bE1BRUtQZ29oWTJoaGNtZGxMVzFoZUVSdmRXSnNaVlpsY21sbWVVSnlZVzVrVTJGbVpYUjVJaGtJNnY3X19fX19fX19fQVJJTVpHOTFZbXhsZG1WeWFXWjVDajhLSW1Ob1lYSm5aUzFoYkd4RWIzVmliR1ZXWlhKcFpubENiM1JCZG05cFpHRnVZMlVpR1FqcF92X19fX19fX184QkVneGtiM1ZpYkdWMlpYSnBabmtLVHdvdVkyaGhjbWRsTFdGc2JFUnZkV0pzWlZabGNtbG1lVlpwWkdWdlZtbGxkMkZpYVd4cGRIbFVjbUZqYTJsdVp5SWRDTGpfX19fX19fX19fd0VTREdSMkxYSmxjRzl5ZEdsdVp5b0NDQUVRbHY4RSZjcnJlbHI9JnBjbT0xJnZjPTQmc2FpZD0yZDFlM2NmNTE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyZpY3Q9VW5rbm93biZhdWN0PTMmaW09MSZtYz1kNGVjMGM5Yy00MjBiLTQ3ZmYtODZmZi0xODE5NWEwMWQ0YmImY3NnPUtBQS4mdGFpbD0xJnN2PXNwb3R4JnRhaWw9MQ..%26pie%3D&crt=1087825341&dup=78ae4e16-586a-4c70-8aa5-d88761c81441&dvtagver=dvot_0.8.122_389cd3a&DVP_PP_IMP_ID=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&DVP_TTD_1=pfvg03w&DVP_TTD_2=6nr3ohk&DVP_TTD_3=75ujkz7&DVP_TTD_4=6fx1w0y&DVP_TTD_6=spotx&DVP_HAS_VIEW=0&vad=6000&dvp_zjsver=0.21.17&gdpr=0&vstvr=2.0-i&dvp_psf=0&app=[APPBUNDLE]&essd=[SERVERSIDE]"
+                },
+                {
+                    "type": "impression",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=78ae4e16-586a-4c70-8aa5-d88761c81441&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Ft%3D1%26iid%3D06d47221-3ed7-4f3a-9c6f-0fce6b7080cf%26crid%3Drrykp17d%26wp%3D0.7818%26aid%3D1%26wpc%3DUSD%26sfe%3D152c2228%26puid%3D%26tdid%3D6c6efde4-9512-43e3-b21a-a4899b163182%26pid%3Dpfvg03w%26ag%3D75ujkz7%26adv%3D6nr3ohk%26sig%3D1lLelyNtp6ER1c6riSc4EXHtYeEkthxxOOK_hOCpFzVY.%26bp%3D1.54777917864175%26cf%3D3656364%26fq%3D0%26td_s%3Dm.vidio.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26uhow%3D111%26agsa%3D%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid110%26br%3DChrome%26rlangs%3Did%26mlang%3D%26svpid%3D247419%26did%3D3c67b.4676b.f682%26rcxt%3DOther%26lat%3D-0.879600%26lon%3D131.261000%26tmpc%3D28.02%26daid%3D%26vp%3D1%26osi%3D%26osv%3D%26sft%3D2%26bx%3D120%26bv%3D1%26vvp%3D%26mk%3DOppo%26mdl%3DCPH1989%26vpb%3DPreRoll%26dc%3D14%26vcc%3DCAEQChgKMggIAwgCCAUICToECAEIAkABSAFQBIgBAqABgAWoAegCyAEB0AED6AEC8AEB-AEBgAIDigIECAIIBZoCAggCoAICqAICwAIA%26sv%3Dspotx%26pidi%3D2045%26advi%3D312390%26cmpi%3D2522109%26agi%3D12501552%26cridi%3D25084468%26svi%3D13%26tid%3D1%26cmp%3D6fx1w0y%26imf%3D21%26vrtd%3D14%2C15%26rurl%3Dhttps%253a%252f%252fm.vidio.com%252fwatch%252f7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022%26tsig%3DJJrOZA9Z-Fy7KiZ9vpUkK3jf2gCDJuxyL3FBztv3_G8.%26c%3DCglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..%26dur%3DCiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E%26durs%3DnBSZbU%26crrelr%3D%26pcm%3D1%26vc%3D4%26said%3D2d1e3cf5193f11edb6851a5700cb0007%26ict%3DUnknown%26auct%3D3%26im%3D1%26mc%3Dd4ec0c9c-420b-47ff-86ff-18195a01d4bb%26csg%3DKAA.%26tail%3D1%26vrw%3D1&ea=impression&cm114=2&cm115=19&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=3&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=%5BTIMESTAMP%5D&cd143=1660199464.9808&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "creativeView",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5ECreativeView.Linear.2087490685%7E0%7E2087490685%7E01000&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "creativeView",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&0&interactionsStr=1087825341%7E%7E0%5EebAdStart%7E0%7E0%7E1%7E0%7E1%7E2087490685%7E0&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "start",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebVideoStarted%7E0%7E2087490685%7E01010&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5Eeb25Per_Played%7E0%7E2087490685%7E01010&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5Eeb50Per_Played%7E0%7E2087490685%7E01010&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5Eeb75Per_Played%7E0%7E2087490685%7E01010&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebVideoFullPlay%7E0%7E2087490685%7E01010&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "mute",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebVideoMute%7E0%7E2087490685%7E01110&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "unmute",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebVideoUnmute%7E0%7E2087490685%7E01110&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "pause",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebVideoPause%7E0%7E2087490685%7E01110&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "fullscreen",
+                    "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EebFSStart%7E0%7E2087490685%7E01110&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474"
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=4&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=6&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=8&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=10&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "start",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=0&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "pause",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=22&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "resume",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=23&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "mute",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=30&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "unmute",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=31&dup=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1078226537%26ord%3D323603&ea=complete&cm114=3&cm115=8&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=15425320&cd191=1074418633&cd192=1073890163&cd193=1078226537&cd195=1&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=2022-08-11T06%3A31%3A04.758Z&cd143=1660199464.9808&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "creativeView",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=creativeView&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "start",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=start&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1&ast=[ASSETURI]"
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=complete&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "mute",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=mute&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "unmute",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=unmute&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "pause",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=pause&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "rewind",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=rewind&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "resume",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=resume&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "fullscreen",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "expand",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=expand&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "collapse",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=collapse&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "acceptInvitation",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=acceptInvitation&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "close",
+                    "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=close&imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&sfe=152c2229&vp=1"
+                },
+                {
+                    "type": "firstQuartile",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=4&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "midpoint",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=6&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "thirdQuartile",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=8&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=10&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "start",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=0&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "pause",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=22&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "resume",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=23&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "mute",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=30&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "unmute",
+                    "beacon_url": "https://tpsc-video-as.doubleverify.com/event.png?vstevt=31&dup=78ae4e16-586a-4c70-8aa5-d88761c81441"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=78ae4e16-586a-4c70-8aa5-d88761c81441&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Ft%3D1%26iid%3D06d47221-3ed7-4f3a-9c6f-0fce6b7080cf%26crid%3Drrykp17d%26wp%3D0.7818%26aid%3D1%26wpc%3DUSD%26sfe%3D152c2228%26puid%3D%26tdid%3D6c6efde4-9512-43e3-b21a-a4899b163182%26pid%3Dpfvg03w%26ag%3D75ujkz7%26adv%3D6nr3ohk%26sig%3D1lLelyNtp6ER1c6riSc4EXHtYeEkthxxOOK_hOCpFzVY.%26bp%3D1.54777917864175%26cf%3D3656364%26fq%3D0%26td_s%3Dm.vidio.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26uhow%3D111%26agsa%3D%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid110%26br%3DChrome%26rlangs%3Did%26mlang%3D%26svpid%3D247419%26did%3D3c67b.4676b.f682%26rcxt%3DOther%26lat%3D-0.879600%26lon%3D131.261000%26tmpc%3D28.02%26daid%3D%26vp%3D1%26osi%3D%26osv%3D%26sft%3D2%26bx%3D120%26bv%3D1%26vvp%3D%26mk%3DOppo%26mdl%3DCPH1989%26vpb%3DPreRoll%26dc%3D14%26vcc%3DCAEQChgKMggIAwgCCAUICToECAEIAkABSAFQBIgBAqABgAWoAegCyAEB0AED6AEC8AEB-AEBgAIDigIECAIIBZoCAggCoAICqAICwAIA%26sv%3Dspotx%26pidi%3D2045%26advi%3D312390%26cmpi%3D2522109%26agi%3D12501552%26cridi%3D25084468%26svi%3D13%26tid%3D1%26cmp%3D6fx1w0y%26imf%3D21%26vrtd%3D14%2C15%26rurl%3Dhttps%253a%252f%252fm.vidio.com%252fwatch%252f7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022%26tsig%3DJJrOZA9Z-Fy7KiZ9vpUkK3jf2gCDJuxyL3FBztv3_G8.%26c%3DCglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..%26dur%3DCiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E%26durs%3DnBSZbU%26crrelr%3D%26pcm%3D1%26vc%3D4%26said%3D2d1e3cf5193f11edb6851a5700cb0007%26ict%3DUnknown%26auct%3D3%26im%3D1%26mc%3Dd4ec0c9c-420b-47ff-86ff-18195a01d4bb%26csg%3DKAA.%26tail%3D1%26vrw%3D1&ea=complete&cm114=2&cm115=19&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=3&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=%5BTIMESTAMP%5D&cd143=1660199464.9808&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1078226537%26ord%3D323603&ea=click&cm114=3&cm115=8&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=15425320&cd191=1074418633&cd192=1073890163&cd193=1078226537&cd195=1&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=2022-08-11T06%3A31%3A04.758Z&cd143=1660199464.9808&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://insight.adsrvr.org/track/clk?imp=06d47221-3ed7-4f3a-9c6f-0fce6b7080cf&ag=75ujkz7&sfe=152c2228&sig=JJrOZA9Z-Fy7KiZ9vpUkK3jf2gCDJuxyL3FBztv3_G8.&crid=rrykp17d&cf=3656364&fq=0&t=1&td_s=m.vidio.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=&mfsi=&sv=spotx&uhow=111&agsa=&wp=0.7818&rgz=&dt=Mobile&osf=Android&os=Android110&br=Chrome&svpid=247419&rlangs=id&mlang=&did=3c67b.4676b.f682&rcxt=Other&tmpc=28.02&vrtd=14,15&osi=&osv=&daid=&dnr=1&vpb=PreRoll&c=CglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..&dur=CiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E&durs=nBSZbU&crrelr=&npt=&mk=Oppo&mdl=CPH1989&pcm=1&ict=Unknown&said=2d1e3cf5193f11edb6851a5700cb0007&auct=3&csg=KAA.&r="
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://unilever3.demdex.net/event?d_event=click&c_country=ID&d_bu=208227&c_medium=display&c_source=thetradedesk&c_brandcode=BH1120&c_prodcat=CH1104&c_campaignname=Titan%20%28Rexona%29&d_campaignid=CN004138&c_segment=Broad&c_contenttype=video&d_creative=ddmmf-rtg1pduc-1pd-aug22&gdpr=0&gdpr_consent=&d_rd=https%3A%2F%2Fshop-id-rexona.com%2Fid%2Frexona%2F24008%3Futm_medium%3Ddisplay%26utm_source%3Dthetradedesk%26utm_campaign%3DTitan%2520%2528Rexona%2529_CN004138_CH1104_BH1120_ID%26utm_content%3Dvideo_ddmmf-rtg1pduc-1pd-aug22%26utm_term%3DBroad"
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=78ae4e16-586a-4c70-8aa5-d88761c81441&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Ft%3D1%26iid%3D06d47221-3ed7-4f3a-9c6f-0fce6b7080cf%26crid%3Drrykp17d%26wp%3D0.7818%26aid%3D1%26wpc%3DUSD%26sfe%3D152c2228%26puid%3D%26tdid%3D6c6efde4-9512-43e3-b21a-a4899b163182%26pid%3Dpfvg03w%26ag%3D75ujkz7%26adv%3D6nr3ohk%26sig%3D1lLelyNtp6ER1c6riSc4EXHtYeEkthxxOOK_hOCpFzVY.%26bp%3D1.54777917864175%26cf%3D3656364%26fq%3D0%26td_s%3Dm.vidio.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26uhow%3D111%26agsa%3D%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid110%26br%3DChrome%26rlangs%3Did%26mlang%3D%26svpid%3D247419%26did%3D3c67b.4676b.f682%26rcxt%3DOther%26lat%3D-0.879600%26lon%3D131.261000%26tmpc%3D28.02%26daid%3D%26vp%3D1%26osi%3D%26osv%3D%26sft%3D2%26bx%3D120%26bv%3D1%26vvp%3D%26mk%3DOppo%26mdl%3DCPH1989%26vpb%3DPreRoll%26dc%3D14%26vcc%3DCAEQChgKMggIAwgCCAUICToECAEIAkABSAFQBIgBAqABgAWoAegCyAEB0AED6AEC8AEB-AEBgAIDigIECAIIBZoCAggCoAICqAICwAIA%26sv%3Dspotx%26pidi%3D2045%26advi%3D312390%26cmpi%3D2522109%26agi%3D12501552%26cridi%3D25084468%26svi%3D13%26tid%3D1%26cmp%3D6fx1w0y%26imf%3D21%26vrtd%3D14%2C15%26rurl%3Dhttps%253a%252f%252fm.vidio.com%252fwatch%252f7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022%26tsig%3DJJrOZA9Z-Fy7KiZ9vpUkK3jf2gCDJuxyL3FBztv3_G8.%26c%3DCglJbmRvbmVzaWESCldlc3QgUGFwdWEaACIGU29yb25nMAQ4AUgAUAFYAYABAYgBApABAbABALoBBQi6CRgGwAGWHA..%26dur%3DCiMKDmNoYXJnZS1hbGwtMTIyIhEIhv__________ARIEaWF2MgpSCjZjaGFyZ2UtYWxsT2ZmbGluZUF0dHJpYnV0aW9uSW5mZXJyZWRCcmFuZEltcGFjdERpc3BsYXkiGAiq__________8BEgtpYmktM3BkLWF0dAodCgdma3Fsc2I0EJb_BCIOCJOfyYUBEgRub25lMAEKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI6v7_________ARIMZG91YmxldmVyaWZ5Cj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjp_v________8BEgxkb3VibGV2ZXJpZnkKTwouY2hhcmdlLWFsbERvdWJsZVZlcmlmeVZpZGVvVmlld2FiaWxpdHlUcmFja2luZyIdCLj__________wESDGR2LXJlcG9ydGluZyoCCAEQlv8E%26durs%3DnBSZbU%26crrelr%3D%26pcm%3D1%26vc%3D4%26said%3D2d1e3cf5193f11edb6851a5700cb0007%26ict%3DUnknown%26auct%3D3%26im%3D1%26mc%3Dd4ec0c9c-420b-47ff-86ff-18195a01d4bb%26csg%3DKAA.%26tail%3D1%26vrw%3D1&ea=click&cm114=2&cm115=19&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=3&cd170=166&cd182=vpaid-transformer%400.21.17&cd188=sgp1&cd189=droplet&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=3&cd141=%5BAPIFRAMEWORKS%5D&cd142=%5BTIMESTAMP%5D&cd143=1660199464.9809&z=[CACHEBUSTING]"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://sync.search.spotxchange.com/partner?source=spotx"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://y.one.impact-ad.jp/csm?p=spotx&uid=66e6d474-701e-11ec-8cee-1b08d6a40307"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://ad.sxp.smartclip.net/sync?type=red&dsp=48&dspuuid=66e6d474-701e-11ec-8cee-1b08d6a40307"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://cm.adgrx.com/bridge?AG_PID=spotx&AG_SETCOOKIE"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://sync.extend.tv/spotx"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://sb.scorecardresearch.com/b?c1=1&c2=6272977&c3=329623&cv=1.3&cj=1"
+                },
+                {
+                    "type": "initialization",
+                    "beacon_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1660199464981338&ns_st_ec=1&ns_st_cn=1&ns_st_ev=play&ns_st_ct=va&ns_st_cl=6000&ns_st_pt=0&c3=329623&c4=3c67b.4676b.f682&c6=7028&ns_ts=1660199464981338"
+                },
+                {
+                    "type": "complete",
+                    "beacon_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1660199464981338&ns_st_ec=2&ns_st_cn=1&ns_st_ev=end&ns_st_ct=va&ns_st_cl=6000&ns_st_pt=0&c3=329623&c4=3c67b.4676b.f682&c6=7028&ns_ts=1660199464981338"
+                },
+                {
+                    "type": "click",
+                    "beacon_url": "https://search.spotxchange.com/click?_a=329623&_p=3c67b.4676b.f682&_z=1&_m=eNpFiVtLw0AUhI8%2FaDfnnN1sGsE3QSpNpNAq5m1zMxubCyatSfG%2Fa6oFZ2CYb0ZLRAAgY5DCUBsNnFOhstKnUJVERZ6alU%2FWDxCzFBEDUBwaVrC%2BB1qhZB1K8ln6BNU49sOt5zXy5HLXyaxrvE87ZpUXECtmJcrj4SCayyRcm3dtMTgrToNoZts29kPYshRHMiLt5kFklW1617VD5XrByAzxfrMB1oGmEG7%2B6DcIvheB0Tgpgwv%2BX9f%2FYvx6elhPSZ27pI7mmLdTfN5PEW8pPr%2Fp15el188u2j2%2BJ7vo7gfT6FBc&_l=eNp1kG1LwzAQx%2FNZ8lpKntqkA98NYbBWxOrs3pT0mmpnH0JtdQ%2Fuu5vRDYYilzvC7%2F7%2FuxCKKPJdUuQOh0DmnghkkHtloNhfsJgjggqja6c%2BYI5nB5xXBZ5h4hFCGcU32OpdNw4XRFToWGnMGZxFH9a0v2xjXleQmS286fbVZFcW4tow9nowRdbo%2Ft0MttZg%2FtXa3jTV2JxwBrY5tfDxiOKn5XIq7vGPthteJjsa26o2n6b3oGuQlkwoASUUspAUQsGFL3PQOaPAuFJIEqaQLxkPESPCnyYyIQUNr1YQF1yqkLuP%2FY726TbeRzTa3NVx8rBbz1MRbYCtk8VXvHpuYnePk0jcr9LbHxuaa78%3D&_t=eNoly11rgzAUBuD8llyXceJnjfSiMAq7sGPQIvZGYkxtrJpgslHn%2FO%2BL7bk4H8%2Fh5Z3kd%2BTVHrsGVUwS%2F0qIqKtoGxIWxgC8AoAY8RuTA1JjwwbJEX%2BGZmwEG%2FmtNFpwTGes2ch6YcVo1qsWP5KLdRMPuw6jlX2ULy6Z1qWdtPuTZYN7VYsO02CDlcuGiyuEyBsAYjSgs3ENc2knnEoaQJSEJDU0dqa%2BBzs%2BmQA4iygeRSPVsJIfJADkpU2nKtatCumC%2FHib%2BOTv8r6fsryYLqd7eGwPbfG794v87BWng%2FzMMy9rz6TwPqZj%2F7X7B5Y3XIM%3D&_b=eNpVUV1v2yAUzY9JeHPCh21gEqqWtOs6panWuJuSFwsb4qDYxjI4S6v9%2BBFnexi64nKPzgXOPXBy9L5znxaLws2d7s%2BmrSL37ualbRbbW72Q6nrS%2Fbxwd2UrjDOgq8WPz9sM2M6%2FDF5AYM4CA9N63cvSG9u6re8FgowynJAYzehDCHhL10geVrUpT%2FO1abXs5zgwYw5Tlvyl%2FQcghCAEnXWCUAyBLl5lq2wjECMpT9KEQUJTlEJKOVBVeJZSjDCnEHgpIgSGoKy09mS0GLDQnCvEEI1oimEUE3WIipTAKMEEFVTL9KA0qFTX52XQoVsvxkoAp50L0owSBIYPEQwxSRnjnMc0Br0fxHT6b5zuaLvIqKjXF9vKcZxGLW7VAscQsrvBN3mjlRkaoYzravkOrpCzQ19q4Y%2Fa91Jppd1pxEvZdNJUrciMl%2B0Mwxlmr%2BN9M8zz1QbCGBGWr76GYcX5MiQM86f7W68NzgQhZ6O0zZVqmkPU%2Bwp1aiijsEdyqDAeqcHBRix7K9V0Otm8rdcTrHDBODsgTg4IaVUEU5BMKIRl8SWskfV797Gs99npsr%2Ff4c3Hd%2FTcfDs%2BP75dNj93v%2FZZlbxktdlk%2B3r%2F%2BCT%2BAMitxOI%3D&daid=rrykp17d"
+                }
+            ]
+        },
+        "ad_parameters": "{\"adParameters\":\"{\\\"adServingId\\\":\\\"6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d\\\",\\\"clickThroughUrl\\\":\\\"https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EClick.Linear.2087490685%7E0%7E2087490685%7E11100&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474&rtu=$$https://shop-id-rexona.com/id/rexona/24008?utm_medium=display&utm_source=thetradedesk&utm_campaign=Titan%20%28Rexona%29_CN004138_CH1104_BH1120_ID&utm_content=video_ddmmf-rtg1pduc-1pd-aug22&utm_term=Broad$$\\\",\\\"customDimensions\\\":{\\\"101\\\":\\\"vast\\\",\\\"102\\\":\\\"src\\\",\\\"111\\\":\\\"inline\\\",\\\"112\\\":\\\"unwrapped\\\",\\\"117\\\":2,\\\"170\\\":\\\"166\\\",\\\"182\\\":\\\"vpaid-transformer@0.21.17\\\",\\\"188\\\":\\\"sgp1\\\",\\\"189\\\":\\\"droplet\\\",\\\"190\\\":\\\"15425320\\\",\\\"191\\\":\\\"1074418633\\\",\\\"192\\\":\\\"1073890163\\\",\\\"193\\\":\\\"1078226537\\\",\\\"195\\\":\\\"1\\\",\\\"196\\\":\\\"3\\\"},\\\"customMetrics\\\":{\\\"114\\\":3,\\\"115\\\":8},\\\"duration\\\":6,\\\"mediaFiles\\\":[{\\\"bitrate\\\":1371,\\\"delivery\\\":\\\"progressive\\\",\\\"height\\\":360,\\\"id\\\":\\\"2087732900\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"type\\\":\\\"video/mp4\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691175.MP4\\\",\\\"width\\\":640},{\\\"bitrate\\\":1524,\\\"delivery\\\":\\\"progressive\\\",\\\"height\\\":360,\\\"id\\\":\\\"2087732901\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"type\\\":\\\"video/mp4\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691181.MP4\\\",\\\"width\\\":640},{\\\"bitrate\\\":1779,\\\"delivery\\\":\\\"progressive\\\",\\\"height\\\":360,\\\"id\\\":\\\"2087732902\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"type\\\":\\\"video/mp4\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20220629/3_6s_Catch%20All_YT%20(1)_71924598390691188.MP4\\\",\\\"width\\\":640}],\\\"plugins\\\":[{\\\"config\\\":{\\\"adsrv\\\":\\\"166\\\",\\\"auadv\\\":\\\"6nr3ohk\\\",\\\"aucmp\\\":\\\"6fx1w0y\\\",\\\"aucrtv\\\":\\\"rrykp17d\\\",\\\"audeal\\\":\\\"3c67b.4676b.f682\\\",\\\"auevent\\\":\\\"06d47221-3ed7-4f3a-9c6f-0fce6b7080cf\\\",\\\"aufilter1\\\":\\\"pfvg03w\\\",\\\"autt\\\":\\\"4\\\",\\\"blk\\\":\\\"1\\\",\\\"c1\\\":\\\"pfvg03w\\\",\\\"c2\\\":\\\"75ujkz7\\\",\\\"c3\\\":\\\"spotx\\\",\\\"c4\\\":\\\"dv-51000298\\\",\\\"c5\\\":\\\"m.vidio.com\\\",\\\"c6\\\":\\\"z0vnk5k\\\",\\\"cmp\\\":\\\"1074418633\\\",\\\"crt\\\":\\\"1087825341\\\",\\\"ctx\\\":\\\"15425320\\\",\\\"dup\\\":\\\"6dbd1af1-a126-4f67-84aa-2bd66bf8cc9d\\\",\\\"dvp_blk\\\":\\\"1\\\",\\\"dvp_dvotiu\\\":\\\"1\\\",\\\"dvp_psfst\\\":\\\"ack\\\",\\\"dvp_psfts\\\":1660199464759,\\\"dvp_zjsver\\\":\\\"0.21.17\\\",\\\"dvtagver\\\":\\\"dvot_0.8.122_389cd3a\\\",\\\"gdpr\\\":\\\"0\\\",\\\"mon\\\":\\\"1\\\",\\\"msrapi\\\":\\\"jsVpaid\\\",\\\"plc\\\":\\\"1078226537\\\",\\\"pltfrm\\\":\\\"247419\\\",\\\"ppid\\\":\\\"102\\\",\\\"prr\\\":\\\"1\\\",\\\"scripthash\\\":\\\"1\\\",\\\"sid\\\":\\\"1073890163\\\",\\\"turl\\\":\\\"m.vidio.com/watch/7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022\\\",\\\"vidreg\\\":\\\"as\\\",\\\"vstvr\\\":\\\"2.0-i\\\"},\\\"id\\\":\\\"dv\\\"}],\\\"trackingUri\\\":\\\"https://vtrk.doubleverify.com\\\",\\\"wrapperId\\\":\\\"12000000\\\"}\",\"adServingId\":\"78ae4e16-586a-4c70-8aa5-d88761c81441\",\"clickThroughUrl\":\"https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1087825341%7E%7E0%7E%7E%7E%5EClick.Linear.2087490685%7E0%7E2087490685%7E11100&pos=3720&ebRandom=1836956580376160779&dg=1077212970&ta=-1&usercookie=u2=e99d1817-7620-43df-b630-5231b7ea6fde&gdpr_consent=&gdpr=&sessionid=3010032023688999474&rtu=$$https://shop-id-rexona.com/id/rexona/24008?utm_medium=display&utm_source=thetradedesk&utm_campaign=Titan%20%28Rexona%29_CN004138_CH1104_BH1120_ID&utm_content=video_ddmmf-rtg1pduc-1pd-aug22&utm_term=Broad$$\",\"customDimensions\":{\"101\":\"vast\",\"102\":\"src\",\"111\":\"inline\",\"112\":\"unwrapped\",\"117\":3,\"170\":\"166\",\"182\":\"vpaid-transformer@0.21.17\",\"188\":\"sgp1\",\"189\":\"droplet\",\"190\":\"818052\",\"191\":\"DV140326\",\"192\":\"TTD\",\"193\":\"vidview\",\"194\":\"818053\",\"196\":\"3\"},\"customMetrics\":{\"114\":2,\"115\":19},\"duration\":6,\"mediaFiles\":[{\"apiFramework\":\"VPAID\",\"delivery\":\"progressive\",\"height\":360,\"type\":\"application/javascript\",\"uri\":\"https://vpaid.doubleverify.com/js/vpaid-transformer/0.21.17/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22101%22%3A%22vast%22%2C%22102%22%3A%22src%22%2C%22111%22%3A%22inline%22%2C%22112%22%3A%22unwrapped%22%2C%22117%22%3A2%2C%22170%22%3A%22166%22%2C%22182%22%3A%22vpaid-transformer%400.21.17%22%2C%22188%22%3A%22sgp1%22%2C%22189%22%3A%22droplet%22%2C%22190%22%3A%2215425320%22%2C%22191%22%3A%221074418633%22%2C%22192%22%3A%221073890163%22%2C%22193%22%3A%221078226537%22%2C%22195%22%3A%221%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A3%2C%22115%22%3A8%7D%2C%22adServingId%22%3A%226dbd1af1-a126-4f67-84aa-2bd66bf8cc9d%22%2C%22trackingUri%22%3A%22https%3A%2F%2Fvtrk.doubleverify.com%22%7D\",\"width\":640}],\"plugins\":[{\"config\":{\"DVP_HAS_VIEW\":\"0\",\"DVP_PP_IMP_ID\":\"06d47221-3ed7-4f3a-9c6f-0fce6b7080cf\",\"DVP_TTD_1\":\"pfvg03w\",\"DVP_TTD_2\":\"6nr3ohk\",\"DVP_TTD_3\":\"75ujkz7\",\"DVP_TTD_4\":\"6fx1w0y\",\"DVP_TTD_6\":\"spotx\",\"adsrv\":\"166\",\"advid\":\"818053\",\"aucrtv\":\"rrykp17d\",\"blk\":\"0\",\"c5\":\"m.vidio.com\",\"cmp\":\"DV140326\",\"crt\":\"1087825341\",\"ctx\":\"818052\",\"dup\":\"78ae4e16-586a-4c70-8aa5-d88761c81441\",\"dvp_psf\":\"0\",\"dvp_zjsver\":\"0.21.17\",\"dvtagver\":\"dvot_0.8.122_389cd3a\",\"gdpr\":\"0\",\"mon\":\"1\",\"msrapi\":\"jsVpaid\",\"plc\":\"vidview\",\"rtsurl\":\"https://insight.adsrvr.org/enduser/dv/?rtb=dD0xJmlpZD0wNmQ0NzIyMS0zZWQ3LTRmM2EtOWM2Zi0wZmNlNmI3MDgwY2YmY3JpZD1ycnlrcDE3ZCZ3cD0ke0FVQ1RJT05fTUJSfSZhaWQ9MSZ3cGM9VVNEJnNmZT0xNTJjMjIyOCZwdWlkPSZ0ZGlkPTZjNmVmZGU0LTk1MTItNDNlMy1iMjFhLWE0ODk5YjE2MzE4MiZwaWQ9cGZ2ZzAzdyZhZz03NXVqa3o3JmFkdj02bnIzb2hrJmJwPTEuNTQ3Nzc5MTc4NjQxNzUmY2Y9MzY1NjM2NCZmcT0wJnRkX3M9bS52aWRpby5jb20mcmNhdHM9Jm1jYXQ9ZHYtNTEwMDAyOTgmbXN0ZT0mbWZsZD00Jm1zc2k9Jm1mc2k9JnVob3c9MTExJmFnc2E9JnJnej0mc3ZidHRkPTEmZHQ9TW9iaWxlJm9zZj1BbmRyb2lkJm9zPUFuZHJvaWQxMTAmYnI9Q2hyb21lJnJsYW5ncz1pZCZtbGFuZz0mc3ZwaWQ9MjQ3NDE5JmRpZD0zYzY3Yi40Njc2Yi5mNjgyJnJjeHQ9T3RoZXImbGF0PS0wLjg3OTYwMCZsb249MTMxLjI2MTAwMCZ0bXBjPTI4LjAyJmRhaWQ9JnZwPTEmb3NpPSZvc3Y9JnNmdD0yJmJ4PTEyMCZidj0xJnZ2cD0mbWs9T3BwbyZtZGw9Q1BIMTk4OSZ2cGI9UHJlUm9sbCZjPUNnbEpibVJ2Ym1WemFXRVNDbGRsYzNRZ1VHRndkV0VhQUNJR1UyOXliMjVuTUFRNEFVZ0FVQUZZQVlBQkFZZ0JBcEFCQWJBQkFMb0JCUWk2Q1JnR3dBR1dIQS4uJmR1cj1DaU1LRG1Ob1lYSm5aUzFoYkd3dE1USXlJaEVJaHZfX19fX19fX19fQVJJRWFXRjJNZ3BTQ2paamFHRnlaMlV0WVd4c1QyWm1iR2x1WlVGMGRISnBZblYwYVc5dVNXNW1aWEp5WldSQ2NtRnVaRWx0Y0dGamRFUnBjM0JzWVhraUdBaXFfX19fX19fX19fOEJFZ3RwWW1rdE0zQmtMV0YwZEFvZENnZG1hM0ZzYzJJMEVKYl9CQ0lPQ0pPZnlZVUJFZ1J1YjI1bE1BRUtQZ29oWTJoaGNtZGxMVzFoZUVSdmRXSnNaVlpsY21sbWVVSnlZVzVrVTJGbVpYUjVJaGtJNnY3X19fX19fX19fQVJJTVpHOTFZbXhsZG1WeWFXWjVDajhLSW1Ob1lYSm5aUzFoYkd4RWIzVmliR1ZXWlhKcFpubENiM1JCZG05cFpHRnVZMlVpR1FqcF92X19fX19fX184QkVneGtiM1ZpYkdWMlpYSnBabmtLVHdvdVkyaGhjbWRsTFdGc2JFUnZkV0pzWlZabGNtbG1lVlpwWkdWdlZtbGxkMkZpYVd4cGRIbFVjbUZqYTJsdVp5SWRDTGpfX19fX19fX19fd0VTREdSMkxYSmxjRzl5ZEdsdVp5b0NDQUVRbHY4RSZjcnJlbHI9JnBjbT0xJnZjPTQmc2FpZD0yZDFlM2NmNTE5M2YxMWVkYjY4NTFhNTcwMGNiMDAwNyZpY3Q9VW5rbm93biZhdWN0PTMmaW09MSZtYz1kNGVjMGM5Yy00MjBiLTQ3ZmYtODZmZi0xODE5NWEwMWQ0YmImY3NnPUtBQS4mdGFpbD0xJnN2PXNwb3R4JnRhaWw9MQ..&pie=\",\"scripthash\":\"1\",\"sid\":\"TTD\",\"vidreg\":\"as\",\"vstvr\":\"2.0-i\"},\"id\":\"dv\"}],\"trackingUri\":\"https://vtrk.doubleverify.com\",\"wrapperId\":\"12000000\"}"
+    },
+    "ad_system": {
+        "version": "1.0",
+        "data": "The Trade Desk"
+    },
+    "referrer": "https://m.vidio.com/watch/7123223-full-match-indonesia-vs-myanmar-aff-u16-boys-championship-2022",
+    "inventory_class": null,
+    "safety": null,
+    "client_playback": {
+        "ados": {
+            "client_side": {
+                "total_timeout": 15000,
+                "load_timeout": 120000,
+                "feed_timeout": 2000
+            }
+        },
+        "publisher_name": "Vidio",
+        "publisher_id": 247419,
+        "channel_name": "Ulid_Vidio_Web_6s non SS",
+        "playback_conf": {
+            "instream": [],
+            "release_track": "prod",
+            "third_party_tracking": {
+                "whiteops": false,
+                "moat": true,
+                "integral": false,
+                "double_verify_noscript": false,
+                "double_verify_jsvpaid": true,
+                "double_verify": true,
+                "lotame": false
+            }
+        },
+        "channel_id": 329623,
+        "custom_skin": 0
+    },
+    "skipit": {
+        "enabled": 1
+    },
+    "display": [],
+    "third_party_tracking": {
+        "providers": []
+    },
+    "bundle_id": null,
+    "channel_id": "329623"
+}]]></AdParameters>
+						<MediaFiles>
+							<MediaFile apiFramework="VPAID" delivery="progressive" height="360" type="application/javascript" width="640"><![CDATA[https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js]]></MediaFile>
+							<MediaFile apiFramework="VPAID" bitrate="1779" delivery="progressive" height="360" maintainAspectRatio="true" scalable="true" type="application/javascript" width="640"><![CDATA[https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker.js]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type="Pricing">
+					<Price currency="USD" model="CPM" source="spotxchange"><![CDATA[1.09]]></Price>
+				</Extension>
+				<Extension type="SpotX-Count">
+					<total_available><![CDATA[1]]></total_available>
+				</Extension>
+				<Extension type="Spotx-Regs">
+					<GDPR>0</GDPR>
+				</Extension>
+				<Extension type="Spotx-User">
+					<consent>2</consent>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>
