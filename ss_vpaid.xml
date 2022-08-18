@@ -1,0 +1,26 @@
+<VAST version="3.0">
+<Ad id="VPAID">
+<InLine>
+<AdSystem>SpringServe</AdSystem>
+<AdTitle>SpringServe</AdTitle>
+<Impression>
+<![CDATA[ https://vid-io-cle.springserve.com/vd/i?event=vast_flash_impression ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:30</Duration>
+<AdParameters>
+<![CDATA[ {"passthru":{"ssid":"b4981c2f-f7fa-4717-8f57-3656aff8d291.1657162034806","uuid":"fd18a848-70eb-4349-a7f5-e4d9808ed061","ip":"101.128.119.74","_rcc":"en.57984_vp.56247"},"country":"ID","secure":true,"pimps":{},"uuid":"fd18a848-70eb-4349-a7f5-e4d9808ed061","ssid":"b4981c2f-f7fa-4717-8f57-3656aff8d291","supplyTagId":673081,"_ssreg":"cle","dx":[[{"passthru":{"_t1":1},"score":"0.00","a_cc":"rs.14141-s.673081-d.1026735","url":"https://search.spotxchange.com/vast/3.0/328807?VPAID=JS&content_page_url=https://m.vidio.com/watch/1589738-wardah-one-brand-makeup-tutorial-fatyabiya"}]],"host":"broadcast.cle.c64a090f7e87","dto":{"1026735":3000},"height":480,"env":"mobile_web","url":"https://www.vidio.com/watch/7123075-episode-7-asmara-2-dunia-season-2","device_type_openrtb_id":2,"td":false,"pixels":{"initAd":[{"format":"image","url":"https://cs.emxdgt.com/um?redirect=https%3A%2F%2Fsync.springserve.com%2Fusersync%3Faid%3D984%26uuid%3D%24UID"},{"format":"image","url":"https://ad.360yield.com/server_match?partner_id=7&r=https%3A%2F%2Fsync.springserve.com%2Fusersync%3Fuuid%3D%7BPUB_USER_ID%7D%26aid%3D1033"},{"format":"image","url":"https://match.deepintent.com/usersync/122"},{"format":"image","url":"https://bpi.rtactivate.com/tag/?id=16850&user_id=b4981c2f-f7fa-4717-8f57-3656aff8d291&device_id="}]},"v":"0","domain":"vidio.com","device_type_id":1,"width":640,"to":-1,"aid":1263,"w_de":2,"ts":false} ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="640" height="480" apiFramework="VPAID" type="application/javascript">
+<![CDATA[ https://vpaid.springserve.com/production/vpaid_6d8da985.js ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
