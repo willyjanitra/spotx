@@ -11,7 +11,7 @@
 <Creatives>
 <Creative sequence="1">
 <Linear skipoffset="00:00:30">
-<Duration>00:01:50</Duration>
+<Duration>00:00:50</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
