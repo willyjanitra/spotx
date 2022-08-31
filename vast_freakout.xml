@@ -1,0 +1,54 @@
+<VAST version="3.0">
+<script id="professor prebid injected bundle"/>
+<Ad>
+<InLine>
+<AdSystem>SpotX</AdSystem>
+<AdTitle>146sec-TikTok - #IniStyleKita</AdTitle>
+<Description>146sec-TiktokGlobal with Skip after 30 sec</Description>
+<Impression>
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear skipoffset="00:00:30">
+<Duration>00:02:26</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://snssdk1180.onelink.me/BAuo/IniStyleKita ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="640" height="360">
+<![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/3/8/38db325d2b163dc5ae2eaf1145c9beef.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
