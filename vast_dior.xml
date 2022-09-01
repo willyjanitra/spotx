@@ -1,0 +1,33 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>SpotX</AdSystem>
+			<AdTitle>Vast Dior Prestige Creme Preview</AdTitle>
+			<Description>Dior Prestige Creme 30s</Description>
+			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]></Tracking>
+							<Tracking event="complete"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]></Tracking>
+							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[ https://www.dior.com/en_int/beauty ]]></ClickThrough>
+							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/7/9/79b1a44dc01646eb8cb9bd322f79cb7a.mp4 ]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
