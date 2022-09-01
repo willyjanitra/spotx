@@ -8,7 +8,7 @@
 			<Creatives>
 				<Creative sequence="1">
 					<Linear>
-						<Duration>00:00:15</Duration>
+						<Duration>00:00:30</Duration>
 						<TrackingEvents>
 							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
 							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
