@@ -18,7 +18,7 @@
 							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
 						</TrackingEvents>
 						<VideoClicks>
-							<ClickThrough><![CDATA[ https://www.dior.com/en_int/beauty ]]></ClickThrough>
+							<ClickThrough><![CDATA[ https://www.dior.com/en_int/beauty/skincare/dior-prestige-la-creme-infused-with-rosapeptide?tab=the-cream ]]></ClickThrough>
 							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
