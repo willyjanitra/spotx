@@ -10,8 +10,8 @@
 </Impression>
 <Creatives>
 <Creative sequence="1">
-<Linear skipoffset="00:00:30">
-<Duration>00:00:50</Duration>
+<Linear>
+<Duration>00:02:26</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
