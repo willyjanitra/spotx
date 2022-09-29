@@ -1,0 +1,33 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>SpotX</AdSystem>
+			<AdTitle>Vast Dior New Rouge Forever Preview</AdTitle>
+			<Description>Dior New Rouge Forever 30s</Description>
+			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]></Tracking>
+							<Tracking event="complete"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]></Tracking>
+							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[ https://www.dior.com/en_id/beauty/make-up/new-rouge-dior-forever ]]></ClickThrough>
+							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/4/4/44162ac75d9d3a60574da59a954d2f42.mp4 ]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
