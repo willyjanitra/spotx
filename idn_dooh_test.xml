@@ -1,0 +1,33 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>SpotX</AdSystem>
+			<AdTitle>IDN Dooh Test</AdTitle>
+			<Description>For test purposes only</Description>
+			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]></Tracking>
+							<Tracking event="complete"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]></Tracking>
+							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough><![CDATA[ https://www.google.com ]]></ClickThrough>
+							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile bitrate="766" delivery="progressive" height="640" type="video/mp4" width="360"><![CDATA[ https://api.signage.interadsdev.com/storage/contents/0239b9b4bbec3fda7d60a852a735326e.mp4 ]]></MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
