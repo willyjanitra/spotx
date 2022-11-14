@@ -1,0 +1,28 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+<Ad id="6033">
+<InLine>
+<AdSystem>IVSADSERVER</AdSystem>
+<AdTitle>Linear VPAID Rich Media Ad</AdTitle>
+<Creatives>
+<Creative id="C6033" sequence="1">
+<Linear>
+<Duration>00:00:30</Duration>
+<AdParameters>
+<![CDATA[ {"iframeSrcdocUrl":"https://creative-ivstream.ivideosmart.com/richmedia/programmatic-test/index.html","trackingUrls":{"AdInteraction":"https://r.ivstracker.net/prod/vast?action=adInteraction&country=ID&device=desktop&clientid=5c22d826-408d-454f-8fd4-60dd6b131e7c&dnt=&pageurl=&widgetid=undefined&videoid=undefined&segmentnames=undefined&ivsdebug=&adrequestid=undefined&tagid=6033&campaignid=undefined&advertiserid=undefined"}} ]]>
+</AdParameters>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://ivs.tv/ ]]>
+</ClickThrough>
+<ClickTracking/>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" apiFramework="VPAID" type="application/javascript" width="200" height="120">https://player.ivideosmart.com/ivshotspots/js/vpaid-nonlinear-richmedia.js</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Impression/>
+</InLine>
+</Ad>
+</VAST>
