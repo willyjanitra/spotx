@@ -2,8 +2,8 @@
 	<Ad id="wj00123">
 		<InLine>
 			<AdSystem>SpotX</AdSystem>
-			<AdTitle>Vast Dior Prestige Creme Preview</AdTitle>
-			<Description>Dior Prestige Creme 30s</Description>
+			<AdTitle>VAST test podding 1</AdTitle>
+			<Description>Test Podding 1</Description>
 			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
 			<Creatives>
 				<Creative sequence="1">
@@ -18,7 +18,7 @@
 							<Tracking event="skip"><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]></Tracking>
 						</TrackingEvents>
 						<VideoClicks>
-							<ClickThrough><![CDATA[ https://www.dior.com/en_int/beauty/skincare/dior-prestige-la-creme-infused-with-rosapeptide?tab=the-cream ]]></ClickThrough>
+							<ClickThrough><![CDATA[ https://www.google.com/?test_podding=1 ]]></ClickThrough>
 							<ClickTracking><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
