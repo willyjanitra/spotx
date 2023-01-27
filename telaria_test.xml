@@ -1,0 +1,53 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>Magnite</AdSystem>
+			<AdTitle>Magnite - Telaria Test</AdTitle>
+			<Description>Testp</Description>
+			<Impression>
+				<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[ https://apps.apple.com/th/app/ais-play/id1060905121 ]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="550" height="413">
+								<![CDATA[ https://raw.githack.com/willyjanitra/spotx/727ccc668c5afdab39ed17cd216184bd93cfe20b/telaria_house_30s_ntsc_1280x720%20(1).mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
