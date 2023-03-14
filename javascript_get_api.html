@@ -6,27 +6,27 @@
 	<script type="text/javascript">
 		function call_api()
 		{
-			var xmlHttp = new XMLHttpRequest();
-			var token = "Test_Implicit-cHVibGlzaGVyLzc4ODg2"
-			var url = "https://auth.spotx.tv/oauth2/auth?client_id="+token+"&response_type=token&state=indonesia";
-		    xmlHttp.open("GET", url); // false for synchronous request
-		    xmlHttp.send();
-		    xmlHttp.onreadystatechange=(e)=>{
-		    	console.log(xmlHttp.responseText);
-		    }
+			let xhr = new XMLHttpRequest();
+			xhr.open("POST", "https://api.tremorhub.com/v1/resources/sessions");
+			xhr.setRequestHeader("Accept", "application/json");
+			xhr.setRequestHeader("Content-Type", "application/json");
+
+			xhr.onreadystatechange = function () {
+			  //if (xhr.readyState === 4) {
+			    console.log(xhr.status);
+			    console.log(xhr.responseText);
+			 // }
+			};
+
+			let data = `{
+			    "accessKey" : "mj-mkY2o2c46opR-wj",
+			    "secretKey" : "nHahhO2TJuIf6vHvJOg5"
+			}`;
+
+			xhr.send(data);
 		    
 		}
 
-		// function httpGetAsync(theUrl, callback)
-		// {
-		//     var xmlHttp = new XMLHttpRequest();
-		//     xmlHttp.onreadystatechange = function() { 
-		//         if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-		//             callback(xmlHttp.responseText);
-		//     }
-		//     xmlHttp.open("GET", theUrl, true); // true for asynchronous 
-		//     xmlHttp.send(null);
-		// }
 	</script>
 </head>
 <body>
