@@ -15,10 +15,49 @@
 </head>
 <body>
 	<!-- /137679306/willy_outstream_test -->
-<div id='div-gpt-ad-1683704228993-0'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1683704228993-0'); });
-  </script>
-</div>
+<script src="https://video-outstream.rubiconproject.com/apex.js" defer></script>
+<script type="text/javascript">
+function __magnite_apex_render_ad() {
+  MagniteApex.renderAd({
+    magnite: {
+      account_id: 22534,
+      site_id: 473764,
+      zone_id: 2812210,
+      size_id: 203
+    },
+    width: 640,
+    height: 360,
+    placement: {
+      attachTo: "top",
+      position: "after",
+      align: "center"
+    },
+    collapse: true,
+    closeButton: true,
+    passback: "__magnite_passback"
+  });
+}
+
+function __magnite_passback () {
+   MagniteApex.renderAd({
+    vastUrl: "https://raw.githack.com/willyjanitra/spotx/0d323e84378a1796833935934f15d6ff8b587dae/telaria_test.xml",
+    width: 640,
+    height: 360,
+    placement: {
+      attachTo: "top",
+      position: "after",
+      align: "center"
+    },
+    collapse: true,
+    closeButton: true
+  });
+}
+
+if (document.readyState === "complete") {
+  __magnite_apex_render_ad();
+} else {
+  document.addEventListener("DOMContentLoaded", __magnite_apex_render_ad);
+}
+</script>
 </body>
 </html>
