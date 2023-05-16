@@ -3,7 +3,7 @@
 		<InLine>
 			<AdSystem>SpotX</AdSystem>
 			<AdTitle>15s Environment</AdTitle>
-			<Description>Skipable Test</Description>
+			<Description>Test</Description>
 			<Impression><![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]></Impression>
 			<Creatives>
 				<Creative sequence="1">
