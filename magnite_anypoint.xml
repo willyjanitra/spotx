@@ -1,0 +1,53 @@
+<VAST version="3.0">
+	<Ad>
+		<InLine>
+			<AdSystem>Magnite</AdSystem>
+			<AdTitle>Magnite Test</AdTitle>
+			<Description>Magnite Anypoint Test</Description>
+			<Impression>
+				<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[ https://www.magnite.com/ ]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="550" height="413">
+								<![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/5/e/5ea24ff54ad30279ad89f56f6bc4bcd1.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
