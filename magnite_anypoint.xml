@@ -33,7 +33,7 @@
 						</TrackingEvents>
 						<VideoClicks>
 							<ClickThrough>
-								<![CDATA[ https://www.magnite.com/ ]]>
+								<![CDATA[ https://www.anypointmedia.com/en/index.php ]]>
 							</ClickThrough>
 							<ClickTracking>
 								<![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
@@ -41,7 +41,7 @@
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="550" height="413">
-								<![CDATA[ https://cdn-source.spotxchange.com/media/videos/orig/5/e/5ea24ff54ad30279ad89f56f6bc4bcd1.mp4 ]]>
+								<![CDATA[ https://f002.backblazeb2.com/file/wjanitra01/file/anypoint.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
