@@ -106,10 +106,32 @@ function __magnite_apex_render_ad() {
       align: "center"
     },
     collapse: true,
-    closeButton: true
+    closeButton: true,
+	  passback: "__magnite_passback"
   });
 }
 
+	function __magnite_passback () {
+   MagniteApex.renderAd({
+    vastUrl: "https://raw.githack.com/willyjanitra/spotx/0d323e84378a1796833935934f15d6ff8b587dae/telaria_test.xml",
+    width: 640,
+    height: 360,
+    placement: {
+      attachTo: "top",
+      position: "after",
+      align: "center"
+    },
+    collapse: true,
+    closeButton: true,
+    player: {
+      jwplayer: {
+        autoPause: {
+          pauseAds: false 
+        }
+      }
+    }
+  });
+}
 if (document.readyState === "complete") {
   __magnite_apex_render_ad();
 } else {
