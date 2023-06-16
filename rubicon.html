@@ -32,7 +32,7 @@
 	
 	
 	<!-- /137679306/willy_outstream_test -->
-<script src="https://video-outstream.rubiconproject.com/apex.js" defer></script>
+<!--<script src="https://video-outstream.rubiconproject.com/apex.js" defer></script>
 <script type="text/javascript">
 function __magnite_apex_render_ad() {
   MagniteApex.renderAd({
@@ -74,6 +74,39 @@ function __magnite_passback () {
         }
       }
     }
+  });
+}
+
+if (document.readyState === "complete") {
+  __magnite_apex_render_ad();
+} else {
+  document.addEventListener("DOMContentLoaded", __magnite_apex_render_ad);
+}
+</script>-->
+
+
+	<script defer src="https://video-outstream.rubiconproject.com/apex.js"></script> 
+<script type="text/javascript">
+function __magnite_apex_render_ad() {
+  MagniteApex.renderAd({
+    magnite: {
+      account_id: 22166,
+      site_id: 340834,
+      zone_id: 2923884,
+      size_id: 203,
+    adParams: {
+    “tg_i.deal”: “1183332"
+   }
+    },
+    width: 640,
+    height: 360,
+    placement: {
+      attachTo: "top",
+      position: "after",
+      align: "center"
+    },
+    collapse: true,
+    closeButton: true
   });
 }
 
