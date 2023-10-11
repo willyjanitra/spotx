@@ -18,7 +18,7 @@
 						</AdParameters>
 						<MediaFiles>
 							<MediaFile delivery="progressive" height="720" type="video/mp4" width="1280" bitrate="436">
-								<![CDATA[ https://aws-website-vastinline-eu9m6.s3.amazonaws.com/Telaria_Creatives/Telaria_1280x720_30s_2500kbps.mp4 ]]>
+								<![CDATA[ https://vz-bcd5d12d-ee4.b-cdn.net/783a689f-a7c8-4fd4-8e73-8e688174cd06/play_720p.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 						<TrackingEvents>
@@ -39,6 +39,9 @@
 							</Tracking>
 						</TrackingEvents>
 						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[ https://www.google.com ]]>
+							</ClickThrough>
 							<ClickTracking id="TV">
 								<![CDATA[ https://telaria.com ]]>
 							</ClickTracking>
