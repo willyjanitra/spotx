@@ -1,0 +1,73 @@
+<VAST version="2.0">
+	<Ad id="defaultText2">
+		<InLine>
+			<AdSystem version="1.0">Tremor Video</AdSystem>
+			<AdTitle>Test MP4 Creative</AdTitle>
+			<Error>
+				<![CDATA[ https://telaria.com ]]>
+			</Error>
+			<Impression id="TV">
+				<![CDATA[ https://telaria.com ]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<AdParameters>
+							<![CDATA[ &referer=- ]]>
+						</AdParameters>
+						<MediaFiles>
+							<MediaFile delivery="progressive" height="720" type="video/mp4" width="1280" bitrate="436">
+								<![CDATA[ https://aws-website-vastinline-eu9m6.s3.amazonaws.com/Telaria_Creatives/Telaria_1280x720_30s_2500kbps.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking id="TV">
+								<![CDATA[ https://telaria.com ]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+				<Creative>
+					<CompanionAds>
+						<Companion height="250" width="300">
+							<StaticResource creativeType="image/jpeg"><![CDATA[ https://f002.backblazeb2.com/file/wjanitra01/file/300x250.png ]]></StaticResource>
+							<CompanionClickThrough><![CDATA[ https://www.magnite.com/ ]]></CompanionClickThrough>
+							<CompanionClickTracking><![CDATA[  ]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[  ]]></Tracking>
+							</TrackingEvents>
+							<AltText>More Information</AltText>
+						</Companion>
+						<Companion height="600" width="300">
+							<HTMLResource><![CDATA[ <a href='https://www.spotx.tv/' target='_blank' style='display:inline-block' ><img src='https://f002.backblazeb2.com/file/wjanitra01/file/300x600.jpeg' border='0' /></a>]]></HTMLResource>
+							<CompanionClickThrough><![CDATA[ https://www.magnite.com/ ]]></CompanionClickThrough>
+							<CompanionClickTracking><![CDATA[  ]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[  ]]></Tracking>
+							</TrackingEvents>
+						</Companion>
+					</CompanionAds>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
