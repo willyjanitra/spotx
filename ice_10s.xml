@@ -1,0 +1,55 @@
+<VAST version="2.0">
+	<Ad id="defaultText2">
+		<InLine>
+			<AdSystem version="1.0">Tremor Video</AdSystem>
+			<AdTitle>Ice 10s</AdTitle>
+			<Error>
+				<![CDATA[ https://telaria.com ]]>
+			</Error>
+			<Impression id="TV">
+				<![CDATA[ https://telaria.com ]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>00:00:10</Duration>
+						<AdParameters>
+							<![CDATA[ &referer=- ]]>
+						</AdParameters>
+						<MediaFiles>
+							<MediaFile delivery="progressive" height="720" type="video/mp4" width="1280" bitrate="436">
+								<![CDATA[ https://f002.backblazeb2.com/file/wjanitra01/file/ice_10sec.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://telaria.com ]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[ https://kingofice.id/?utm_source=Magnite&utm_medium=OnlineVideo&utm_campaign=Paid_LaIceThematicCampaign2024&utm_content=MagniteOTT_CPM ]]>
+							</ClickThrough>
+							<ClickTracking id="TV">
+								<![CDATA[ https://telaria.com ]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions/>
+		</InLine>
+	</Ad>
+</VAST>
